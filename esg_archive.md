@@ -2,6 +2,30 @@
 
 ## 📅 2026-11-02 ESG 및 규제 동향
 
+### 1. [한국콜마, 대통령표창 '2관왕'…ESG 경영·생산혁신 성과 인정 - 헬스경향](https://news.google.com/rss/articles/CBMia0FVX3lxTE5HTktSRWViVXBDbXpmTS1zQnJ5M2ZJSDZEcnNRNHc5OEhHd05KS1huWXU3dndQZVozdjd1YnlkLUZRSVRVdDl4U2JaZG1ZQVJfd183NnMtcjBQWjBVVDhINW9Rb21sMURxb28w?oc=5)
+- **발행일:** Mon, 02 Nov 2026 08:30:01 GMT
+- **요약:** 한국콜마, 대통령표창 '2관왕'…ESG 경영·생산혁신 성과 인정헬스경향
+
+### 2. [인천시민 탄소중립 실천과제 9건 논의 - 서울경제TV](https://news.google.com/rss/articles/CBMiZEFVX3lxTE51R05JbU5xVURzM2VGeG1NZTZaVVl0NEdUamQyMGJEa0xySnFZOHJ4Q1dFZmxGaHY1SFJfVWtLSHlBdmJCTFV2YWIwdXJ1OWZqalVYd0RaZVVlbzZFUTBPX29tRjA?oc=5)
+- **발행일:** Mon, 02 Nov 2026 09:43:27 GMT
+- **요약:** 인천시민 탄소중립 실천과제 9건 논의서울경제TV
+
+### 3. [[교수논단] ESG·탄소중립, 울산산업의 새 기준 ②탄소중립, 자연까지 보라 - 울산제일일보](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1nVWg4d21kc2NiZnFsbHFBdW9Ja2lNVUFQRG1DbE9rRHJJcDBNZHhmNUhXcDFVYmpRUFVnTlk1dWpRdlZ6cEgyR292RlY5MTdCbjk3aGNWZEtDVGFBM0JoQlBzb05FZw?oc=5)
+- **발행일:** Mon, 02 Nov 2026 12:04:20 GMT
+- **요약:** [교수논단] ESG·탄소중립, 울산산업의 새 기준 ②탄소중립, 자연까지 보라울산제일일보
+
+### 4. [[신간] 병원 경영을 위한 ESG 매니지먼트 - 메디포뉴스](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BRmR0ZnlaWHAwUTQ0dXpSeFBpZTdubXdzeThzUGpjblpjWGpaSmE2MTZaQU1fN0poLWZqY05yS25oYWFoTkRRNTNLel9yalhaN0NWZXFMZWl6SDV3MHA2QXRKYUk?oc=5)
+- **발행일:** Mon, 02 Nov 2026 08:16:58 GMT
+- **요약:** [신간] 병원 경영을 위한 ESG 매니지먼트메디포뉴스
+
+### 5. [KTL, 광양분소 개소...산업공정부산물 재자원화·탄소중립 실증 거점 가동 - 헬로티](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBlR0JraFVGalNkUUIwY1VkSDZqT0xha2RSQXhocTYxamtlOGNWQmh3SUVQSy1NWV9XR3lLRGlMYl9sanlmRk9VX1dHSUt5N2tNNkRWMTY0N01zYWlnQUxV?oc=5)
+- **발행일:** Mon, 02 Nov 2026 06:49:39 GMT
+- **요약:** KTL, 광양분소 개소...산업공정부산물 재자원화·탄소중립 실증 거점 가동헬로티
+
+---
+
+## 📅 2026-11-02 ESG 및 규제 동향
+
 ### 1. [인천연구원, 탄소중립 대응 에너지 분야 연구…“시민 참여 강화 필요” - 인천일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE9uRWdhWURHU3pvbXJ4YWVFYzVJNW9Ka1FVNlIzTmFiWUFxdmR4eXQ1YlY3SGtzOGpFcG5FZ3JqbHRMa0NwOWxwRkZjcVRQWDV4UXVvWVZnbExMUm1MUHlucldkVHROQW54bFRPSlE3T3Q?oc=5)
 - **발행일:** Mon, 02 Nov 2026 00:41:02 GMT
 - **요약:** 인천연구원, 탄소중립 대응 에너지 분야 연구…“시민 참여 강화 필요”인천일보
