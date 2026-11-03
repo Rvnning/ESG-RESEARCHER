@@ -2,6 +2,30 @@
 
 ## 📅 2026-11-03 ESG 및 규제 동향
 
+### 1. [남북 탄소중립 협력, 국제제재 넘어 사업화 가능성 모색 - 기후에너지데이터뱅크](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hWVhtLV9jM3ZtRmJGcVRrQ2lTaTRaSms5RDJyTWRzTjNGOXVSb2Q5OXUxaTh4Z3F5MHB2a0xHNzN1SlFnTWt3eGhFMDZ0U0Q3RkVUQmwxOFpQaE5NVmc?oc=5)
+- **발행일:** Tue, 03 Nov 2026 06:10:03 GMT
+- **요약:** 남북 탄소중립 협력, 국제제재 넘어 사업화 가능성 모색기후에너지데이터뱅크
+
+### 2. [RE100 “기업 재생E 수요, PPA 공급 전망의 2.4배...韓, 12차 전기본에 조달 대책 담아야” - 전기신문](https://news.google.com/rss/articles/CBMibEFVX3lxTE1PUTY0ZzZZZzVrX0NJa2VoMERLNTJCY05La3lYcUk1R0hkRGZIZWJvdmNqSVJ3eFRoazJpdlFwTlpjMWFPR3Uyc1Y1YzF5V3NjQ0RMQmJ6Y09QSm9HeGpPNXBMT2NOcVdJV2h6TNIBcEFVX3lxTFBwMnZVeUEyZWZnaUJ6ejJOYjlFTnljUmNWeGpiZWlmaXlBWXY2UmlqbVpjWHlzZGVQTzFXZTVqeVFvUzktbzFGcXFPY0RrREQ2Ri1Hb3EtckVqWTBOWndramxVdlJsSTFrdHp6cnA3dko?oc=5)
+- **발행일:** Tue, 03 Nov 2026 01:34:43 GMT
+- **요약:** RE100 “기업 재생E 수요, PPA 공급 전망의 2.4배...韓, 12차 전기본에 조달 대책 담아야”전기신문
+
+### 3. [한국데이터센터연합회, 10일 ‘AI 시대 데이터센터 탄소중립 세미나’ 개최 - 디지털데일리](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9TaHhyay1pZGRQV3lXZnJMRTcwVXktb243c0ZFYUtJbzBjU3MweVh0d3VDMDk3TTJ1V29UY2dSOGRUcmRPVWFRZzRvSk0zcUZiTkJUU2QxcEhiS2REcVBiUUpTVjk?oc=5)
+- **발행일:** Tue, 03 Nov 2026 08:03:25 GMT
+- **요약:** 한국데이터센터연합회, 10일 ‘AI 시대 데이터센터 탄소중립 세미나’ 개최디지털데일리
+
+### 4. ["ESG 실사가 기업가치 좌우…M&A 과정 경영진 책임 확대" - ESG경제](https://news.google.com/rss/articles/CBMibEFVX3lxTE12MGkweFplMTRkTXlFQ0VVX1BQcWg2cUVVUm1CcU03RTY0M09XdVBqSG5VLVJSOUlpdF83aktzMWsyTEp3OWFyTk5iMGJ2N0FjNHduRXNTQ0U1cU9TQkZGN0t1RTdpd2JvMXVyNw?oc=5)
+- **발행일:** Tue, 03 Nov 2026 07:01:21 GMT
+- **요약:** "ESG 실사가 기업가치 좌우…MA 과정 경영진 책임 확대"ESG경제
+
+### 5. [매년 1억 원 지역사회에… NS홈쇼핑, 성남 ‘ESG 나눔기업’ 인증 - 이코노미톡뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE8xOV9TcGxPbHBYYVVVbVRBYzVjQjBKcEQtT3dCemdPaUdrNGRoTnJublBCSE1QQWFnTHlLM1M0bW5OeGVaclJvMHV1b0FfSG1sWml2TERtbThDbFZsZ2FUbVZCbGhURXI1VGJEaA?oc=5)
+- **발행일:** Tue, 03 Nov 2026 12:19:57 GMT
+- **요약:** 매년 1억 원 지역사회에… NS홈쇼핑, 성남 ‘ESG 나눔기업’ 인증이코노미톡뉴스
+
+---
+
+## 📅 2026-11-03 ESG 및 규제 동향
+
 ### 1. [RE100 “기업 재생E 수요, PPA 공급 전망의 2.4배...韓, 12차 전기본에 조달 대책 담아야” - 전기신문](https://news.google.com/rss/articles/CBMicEFVX3lxTFBwMnZVeUEyZWZnaUJ6ejJOYjlFTnljUmNWeGpiZWlmaXlBWXY2UmlqbVpjWHlzZGVQTzFXZTVqeVFvUzktbzFGcXFPY0RrREQ2Ri1Hb3EtckVqWTBOWndramxVdlJsSTFrdHp6cnA3dkrSAXBBVV95cUxQcDJ2VXlBMmVmZ2lCenoyTmI5RU55Y1JjVnhqYmVpZml5QVl2NlJpam1aY1h5c2RlUE8xV2U1anlRb1M5LW8xRnFxT2NEa0RENkYtR29xLXJFalkwTlp3a2psVXZSbEkxa3R6enJwN3ZK?oc=5)
 - **발행일:** Tue, 03 Nov 2026 01:37:26 GMT
 - **요약:** RE100 “기업 재생E 수요, PPA 공급 전망의 2.4배...韓, 12차 전기본에 조달 대책 담아야”전기신문
