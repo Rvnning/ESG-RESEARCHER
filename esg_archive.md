@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-03 ESG 및 규제 동향
+
+### 1. [RE100 “기업 재생E 수요, PPA 공급 전망의 2.4배...韓, 12차 전기본에 조달 대책 담아야” - 전기신문](https://news.google.com/rss/articles/CBMicEFVX3lxTFBwMnZVeUEyZWZnaUJ6ejJOYjlFTnljUmNWeGpiZWlmaXlBWXY2UmlqbVpjWHlzZGVQTzFXZTVqeVFvUzktbzFGcXFPY0RrREQ2Ri1Hb3EtckVqWTBOWndramxVdlJsSTFrdHp6cnA3dkrSAXBBVV95cUxQcDJ2VXlBMmVmZ2lCenoyTmI5RU55Y1JjVnhqYmVpZml5QVl2NlJpam1aY1h5c2RlUE8xV2U1anlRb1M5LW8xRnFxT2NEa0RENkYtR29xLXJFalkwTlp3a2psVXZSbEkxa3R6enJwN3ZK?oc=5)
+- **발행일:** Tue, 03 Nov 2026 01:37:26 GMT
+- **요약:** RE100 “기업 재생E 수요, PPA 공급 전망의 2.4배...韓, 12차 전기본에 조달 대책 담아야”전기신문
+
+### 2. [남북 탄소중립 협력, 국제제재 넘어 사업화 가능성 모색 - 에너지경제신문](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9lbFJ5a2I3a2tlR3U1VnVCOEZwZkpZRFJGODBqdmstYjctUkVHZXIwcE9kd2ZyRlIxeHYyLVd5cHgxMGtNcnhLbTlaTUlNaFFyRlVaa3p6cW5TR1U?oc=5)
+- **발행일:** Tue, 03 Nov 2026 05:22:37 GMT
+- **요약:** 남북 탄소중립 협력, 국제제재 넘어 사업화 가능성 모색에너지경제신문
+
+### 3. [탄소중립포인트제 대상에 '다회용 택배상자' 사용 포함 - 물류신문](https://news.google.com/rss/articles/CBMia0FVX3lxTE9hLW03VU91dTF6b21Ud2dqV3JBUlZHOUs0c0k4TWotMTYxeHBwdlNVZnBYNnVDRERiLV9fV0JuTDdFVmkyNlppaUdVcnUwd1lIVi1FUEZjajZlbl9hMzdiWGswSVY0M1NGT0ow?oc=5)
+- **발행일:** Tue, 03 Nov 2026 00:40:27 GMT
+- **요약:** 탄소중립포인트제 대상에 '다회용 택배상자' 사용 포함물류신문
+
+### 4. [인천연구원 "탄소중립 효과, 온실가스 감축 넘어 건강까지 고려해야" - 매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5FUEhmZkNIZF9fRGFlMERlTkZaNHpGcGctYW9qNV82RjBOYThyVG5LbnpHcEVsTzlfRzNPeHgxN2xaNE4yQmdmTGV3djVGMHJQLWRhRjk3ejV0VVNyZW1QajNZUHg?oc=5)
+- **발행일:** Tue, 03 Nov 2026 01:58:37 GMT
+- **요약:** 인천연구원 "탄소중립 효과, 온실가스 감축 넘어 건강까지 고려해야"매일일보
+
+### 5. [에너지복지·탄소중립 실천… 서대문구, 에너지재단 협약 - 문화일보](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5qbnlfVXVuajRSNllMNkVJOUVqLXdOMzdTYUFaZ0gxTGhMeVZvVHk3Q0phcnROZHJuTjlWclp1YzZQcEFNRXYydmJRLThFQ3NF?oc=5)
+- **발행일:** Tue, 03 Nov 2026 02:29:43 GMT
+- **요약:** 에너지복지·탄소중립 실천… 서대문구, 에너지재단 협약문화일보
+
+---
+
 ## 📅 2026-11-02 ESG 및 규제 동향
 
 ### 1. [한국콜마, 대통령표창 '2관왕'…ESG 경영·생산혁신 성과 인정 - 헬스경향](https://news.google.com/rss/articles/CBMia0FVX3lxTE5HTktSRWViVXBDbXpmTS1zQnJ5M2ZJSDZEcnNRNHc5OEhHd05KS1huWXU3dndQZVozdjd1YnlkLUZRSVRVdDl4U2JaZG1ZQVJfd183NnMtcjBQWjBVVDhINW9Rb21sMURxb28w?oc=5)
