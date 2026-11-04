@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-04 ESG 및 규제 동향
+
+### 1. [KCC글라스, ESG 보고서 발간…생물다양성 조사 내용 담았다 - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEcVVoUms2UHdFa01wYm5ncXNWOW1zbUl5YUtGbkJuLUtLUlpfM19odWxoYm9wSU5ZdHZFVXVoNFA0MVp0aXprVldnZGdXZDh2NjdLY3V1cHhzUlh1SFlDWndIamxVVjg?oc=5)
+- **발행일:** Wed, 04 Nov 2026 12:57:00 GMT
+- **요약:** KCC글라스, ESG 보고서 발간…생물다양성 조사 내용 담았다연합뉴스TV
+
+### 2. [삼성바이오로직스, ESG 리스크 평가서 ‘극히 미미’ 등급 - 메디포뉴스](https://news.google.com/rss/articles/CBMiZEFVX3lxTE4wZUtSM2pwem0tQ3ZhNkdVMnQ4azBJWnhaeDZwbm9YZzVjaG1OU2VrZEdPcWdhTDhiVGhjbnpESUFnQ01zd3pIcERtSzk0MVMwMTlIbVVVaHNyQ2RMTExlZVpXUHQ?oc=5)
+- **발행일:** Wed, 04 Nov 2026 12:37:06 GMT
+- **요약:** 삼성바이오로직스, ESG 리스크 평가서 ‘극히 미미’ 등급메디포뉴스
+
+### 3. [LH 제주본부, ‘2026년 제1차 ESG협치포럼’ 개최 - 헤드라인제주](https://news.google.com/rss/articles/CBMic0FVX3lxTE9UX3NCOWVKSmpfejVBSWluci15SVY4MmVRT1hOS0oxa0l1TjRKdkpuOENQRU5HSV9CRllFRXJ4NS13bjNiVndQcUVYS09nUUZ5bFU3ZlItTWlqZTRGYUN3QTl0VTFaVE1yVXhSQjNPblBRdm8?oc=5)
+- **발행일:** Wed, 04 Nov 2026 08:25:26 GMT
+- **요약:** LH 제주본부, ‘2026년 제1차 ESG협치포럼’ 개최헤드라인제주
+
+### 4. [국제ESG협회-KNN, 18일 부산서 ‘동남권 ESG 포럼’ - 중앙일보](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBxUTJKNHFSeFR5bEdvbWpvb2xHd3g3allWWFA0b0M0aEd1Y1BtSko0cVN5LWRzdlM0eFd4dERPUU5VTmtUeEFtaUIxdHdpRHVueHF0Uk1R?oc=5)
+- **발행일:** Wed, 04 Nov 2026 06:55:00 GMT
+- **요약:** 국제ESG협회-KNN, 18일 부산서 ‘동남권 ESG 포럼’중앙일보
+
+### 5. [“경기도 탄소중립, 계획 넘어 실행으로”…지자체 협력체계 구축 필요 - 경기신문](https://news.google.com/rss/articles/CBMiYkFVX3lxTE81a0pKcU1pcHFNNWpJbkJaaGk0RnhFM1Q2ZmVHVzItRkNEd0FhaWotUW5tcFJJYy1zZXI4UF9CLVhxVWo3bTVOY1dYQ0ZUel9ZanpHNFpKQm05d3VoSGRHMnNR?oc=5)
+- **발행일:** Wed, 04 Nov 2026 08:09:27 GMT
+- **요약:** “경기도 탄소중립, 계획 넘어 실행으로”…지자체 협력체계 구축 필요경기신문
+
+---
+
 ## 📅 2026-11-03 ESG 및 규제 동향
 
 ### 1. [남북 탄소중립 협력, 국제제재 넘어 사업화 가능성 모색 - 기후에너지데이터뱅크](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5hWVhtLV9jM3ZtRmJGcVRrQ2lTaTRaSms5RDJyTWRzTjNGOXVSb2Q5OXUxaTh4Z3F5MHB2a0xHNzN1SlFnTWt3eGhFMDZ0U0Q3RkVUQmwxOFpQaE5NVmc?oc=5)
