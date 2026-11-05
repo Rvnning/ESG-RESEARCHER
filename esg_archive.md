@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-05 ESG 및 규제 동향
+
+### 1. [봉화군, '탄소중립' 농업·농촌 RE100 실증 공모사업 선정 - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE83TjNfalNnc092NzlWamZlSHZnSk5JLWd2NWVqd1pVN1pkOGs2NGdRWlNtc0dlNGF3OUpFaDhBemZWUC1EM1hoLXFBbjlOZkEwcWg3TVk0cWJxTlBpRmJZS9IBYEFVX3lxTE83TjNfalNnc092NzlWamZlSHZnSk5JLWd2NWVqd1pVN1pkOGs2NGdRWlNtc0dlNGF3OUpFaDhBemZWUC1EM1hoLXFBbjlOZkEwcWg3TVk0cWJxTlBpRmJZSw?oc=5)
+- **발행일:** Thu, 05 Nov 2026 07:18:30 GMT
+- **요약:** 봉화군, '탄소중립' 농업·농촌 RE100 실증 공모사업 선정연합뉴스
+
+### 2. [국가철도공단, SOC 공공기관 최초 ‘SBTi’ 참여 선언…2050 탄소중립 본격 시동 - 전기신문](https://news.google.com/rss/articles/CBMibEFVX3lxTFAzRjJvQ2dtbjFMTXgxZldEZl9BTFRBb3FBdmVVVTk5VDNkU2RQV0hPcm5mNFA5bmRPZ3NfZTZkeHBDcXhXZm5nbVYyUGliOTcya1ZBVV9qX2JIdnF5Qks1WEcxZHM5ZGFjR3FDedIBcEFVX3lxTE1EcDNyQXVreDRtUHdvakUxbFZ1ODRZUEFhZ0RrR0M2RXlCSVFNN3VhTE5DY3BqaGdQZjM0cWRRbndQRTI4NVdvdW5yZ0pCVGpnYWFKRkMxV2hWQmMxam1kb05DaGs3eTJPOHpUeXMwblM?oc=5)
+- **발행일:** Thu, 05 Nov 2026 06:41:22 GMT
+- **요약:** 국가철도공단, SOC 공공기관 최초 ‘SBTi’ 참여 선언…2050 탄소중립 본격 시동전기신문
+
+### 3. [동서발전, 2040년 온실가스 79% 감축 “탄소중립 목표 상향” - 인사이트N파워](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBLTmtRWU5wUFB0dTJWaGVxNjNpV01QZ2ZoLUI5VjN5UFpuSFFvTmhzVVo1TGxTX1JPTFBTTzV2OG9URmRFdUNMSk5HVUNCMllNUUhZVEFNRkRMblcxRzBBbXpzbXliUQ?oc=5)
+- **발행일:** Thu, 05 Nov 2026 06:15:24 GMT
+- **요약:** 동서발전, 2040년 온실가스 79% 감축 “탄소중립 목표 상향”인사이트N파워
+
+### 4. [봉화군, 농업·농촌 RE100 공모 선정…고계1리 에너지 자립 추진 - 경북일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE04ODRhcGVNR0ROM1c0NWxqN3dyUXNSekpEMEpaUVc0NkIzSnFOSGVxZ1NEMWZHWUVXT0JxNlpxQkFFU2N3cGFqSnNsVEU1N0tMdVExejM1T1JKRXFhX2dqTkhKTGNLeHdHQWh4RE1XNA?oc=5)
+- **발행일:** Thu, 05 Nov 2026 06:38:49 GMT
+- **요약:** 봉화군, 농업·농촌 RE100 공모 선정…고계1리 에너지 자립 추진경북일보
+
+### 5. [아모레퍼시픽, 글로벌 RE100 달성 - https://www.yonhapmidas.com/](https://news.google.com/rss/articles/CBMibkFVX3lxTFByVG1UWGU5QUYzVThnTXRwMFAxV0VWNjdGSUE5OUdOVzI1UnJ4VGtJQ2xqZGUyUU9CNEVxckc4MTl5c2NpR2EtMTlncm1JOW55cVhPcTFmaDJ5N25oUXVTaGd6eXMzODlyZzBGN1RR?oc=5)
+- **발행일:** Thu, 05 Nov 2026 01:21:46 GMT
+- **요약:** 아모레퍼시픽, 글로벌 RE100 달성https://www.yonhapmidas.com/
+
+---
+
 ## 📅 2026-11-04 ESG 및 규제 동향
 
 ### 1. [KCC글라스, ESG 보고서 발간…생물다양성 조사 내용 담았다 - 연합뉴스TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBEcVVoUms2UHdFa01wYm5ncXNWOW1zbUl5YUtGbkJuLUtLUlpfM19odWxoYm9wSU5ZdHZFVXVoNFA0MVp0aXprVldnZGdXZDh2NjdLY3V1cHhzUlh1SFlDWndIamxVVjg?oc=5)
