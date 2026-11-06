@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-06 ESG 및 규제 동향
+
+### 1. [경기대, 지역사회와 손잡고 ESG 교육…수료생 실무 역량 강화 - 교수신문](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LdnFPSk0xVnYtR0NXUXlVdUVaX2FWZFo5d2JxSDRnMm1lVmFoQ3NqR1hPdmlvVGJ0WFFtV0U3VDd2VG03TEpmOTZpQnBGQTZwZGJrdTItSWctcWc2WXBaTnlKWWZjUHc?oc=5)
+- **발행일:** Fri, 06 Nov 2026 09:00:31 GMT
+- **요약:** 경기대, 지역사회와 손잡고 ESG 교육…수료생 실무 역량 강화교수신문
+
+### 2. [우리금융, 기후변화·AI 시대 맞아 녹색금융 박차 - 스트레이트뉴스](https://news.google.com/rss/articles/CBMic0FVX3lxTE9ZY1FORHNQa093d1pPd2VFcVVaRk9EQ1V3ZW94dUVIVnVwZUw2TG41eXdzcm52LUYwU2hBWldjM0RKV3ppd0VseUhEbXVkOW5MRlJ4eTdGNlVLTkVvSFpLT3hmNnFJVXpBbnJzS1Q0Wl8tU2fSAXdBVV95cUxOWVFrSFlWa094R2V5aDNGT1JlcTJUczNqYWRJMXNpTndoSmtKMWJwNVJQd05ROVJ4TktBMC01cE9wNVJTbVAyMWx6dWxwY28yRk9jWV83ZWwtZ3FGNDlVRkVsMDlqa0l4dmEySWJrOWlic19GMTFhMA?oc=5)
+- **발행일:** Fri, 06 Nov 2026 08:16:07 GMT
+- **요약:** 우리금융, 기후변화·AI 시대 맞아 녹색금융 박차스트레이트뉴스
+
+### 3. [[심층분석] 우리금융, ESG금융 100조원 승부수…기후금융·AI 결합해 기업금융 체질 바꾼다 - 뉴스밸류](https://news.google.com/rss/articles/CBMiakFVX3lxTE1uLWdCdkxZTkxfVTJqNHp1M3h4eEcyTlRtd2QxMExVWUlGV2xiUk1TbDVZZHZnV3pZLURrWmdUVVZoODd5MVJIMVAzYjBteUtGMmNZUGFkRDFobmRtM0YxU0dPdVhCWllIbXc?oc=5)
+- **발행일:** Fri, 06 Nov 2026 11:57:57 GMT
+- **요약:** [심층분석] 우리금융, ESG금융 100조원 승부수…기후금융·AI 결합해 기업금융 체질 바꾼다뉴스밸류
+
+### 4. [【이선경의 ESG 딥다이브】K-GX, 성공적 녹색전환을 위한 점검 과제 - 임팩트온](https://news.google.com/rss/articles/CBMiakFVX3lxTE9udUxZbk1UZHdUX0Y0aE5lUm9YRjV6aUx1UTVqczVCbTlScFhsZGhXU3Q4bml1N3RhV2pDNHdGOU9nSU92SHhsSzNVRXFjYU1Ha0o4UXZxalBTajJhVGxfeG5wcGtnZTg2aVE?oc=5)
+- **발행일:** Fri, 06 Nov 2026 01:13:52 GMT
+- **요약:** 【이선경의 ESG 딥다이브】K-GX, 성공적 녹색전환을 위한 점검 과제임팩트온
+
+### 5. [남서울대, 충청권 5개 대학 연합 탄소중립·ESG 취·창업 캠프 열어 - 중부매일](https://news.google.com/rss/articles/CBMiakFVX3lxTFAtU0JBM3Z6bFg1TnFSSXhxbU9mSXh0b2phLTFmcTgtemZ0RXdRS0VkM0o5VVF1cDJFWTRkWlQ3MjNManNPN2Zhc3A2Ym84MU5heDlsR3BmRUtBaEtvQnlVUXhOYTBfZUhNNEHSAW5BVV95cUxQNmI2UEkzdDdDb3Ywc3ZnWXdYbUp0RVlqcDBSdW1IWHhBYkU1emo5SDZYNnZXV3lsNGoxbHhYVjBOUURTQVc5VGMzS0I4VHl6ajNkd21ZbDBzdzNnallVQWpwY1NNbUU3LUJ1akE2Zw?oc=5)
+- **발행일:** Fri, 06 Nov 2026 06:37:21 GMT
+- **요약:** 남서울대, 충청권 5개 대학 연합 탄소중립·ESG 취·창업 캠프 열어중부매일
+
+---
+
 ## 📅 2026-11-05 ESG 및 규제 동향
 
 ### 1. [봉화군, '탄소중립' 농업·농촌 RE100 실증 공모사업 선정 - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTE83TjNfalNnc092NzlWamZlSHZnSk5JLWd2NWVqd1pVN1pkOGs2NGdRWlNtc0dlNGF3OUpFaDhBemZWUC1EM1hoLXFBbjlOZkEwcWg3TVk0cWJxTlBpRmJZS9IBYEFVX3lxTE83TjNfalNnc092NzlWamZlSHZnSk5JLWd2NWVqd1pVN1pkOGs2NGdRWlNtc0dlNGF3OUpFaDhBemZWUC1EM1hoLXFBbjlOZkEwcWg3TVk0cWJxTlBpRmJZSw?oc=5)
