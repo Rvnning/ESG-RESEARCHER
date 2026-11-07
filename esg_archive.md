@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-07 ESG 및 규제 동향
+
+### 1. [한국해양수산ESG연구조합, 제7기 ESG경영평가사 전문인력 양성…부산 산업계 대응 역량 강화 - 파이낸스투데이](https://news.google.com/rss/articles/CBMibEFVX3lxTFBYcm54TURBY0l5T2dZWUNMQlZxS0dOSnR3M09DREhZVzFlZllJSjNXUTQ5d1U4WmRCVTQ4THQ2UjVPSFhvbmstYTd2SjB3QndCeXBmZmpGd2w5c3VfaldVaVluaWR3ZmZwTjBMQQ?oc=5)
+- **발행일:** Sat, 07 Nov 2026 09:13:35 GMT
+- **요약:** 한국해양수산ESG연구조합, 제7기 ESG경영평가사 전문인력 양성…부산 산업계 대응 역량 강화파이낸스투데이
+
+### 2. [장관님, 전기가 급하니 탄소중립은 좀 미룰까요? - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQ3ljTURneHFNV2hBNHhnNDhmOUd4aWdYWm1UZHp4U0pBOVU1RWI0S0NaS0hqUjljNU8wV2pxNkpVVkdxVHpvcC15REtYbFlBTF9PRmpWQy01QWc?oc=5)
+- **발행일:** Mon, 26 Oct 2026 07:00:00 GMT
+- **요약:** 장관님, 전기가 급하니 탄소중립은 좀 미룰까요?KBS 뉴스
+
+### 3. [경상국립대, 우주항공·탄소중립·인권 교육 전방위 확대 - 인더스트리뉴스](https://news.google.com/rss/articles/CBMickFVX3lxTE5QZWxOVE0wbi1DcFgzRFBjZmNxTVhHTDUxVUtic3NQSVMwWllMUWFud1NqWmhoaGpaRmcteEZTYkNwWmowdjJncWItUUZqMk82LURyLV9oVUR5ODVTU1VaQWt3X3h1a1VISjVVWFZ5ZTJ5UQ?oc=5)
+- **발행일:** Sat, 07 Nov 2026 07:36:42 GMT
+- **요약:** 경상국립대, 우주항공·탄소중립·인권 교육 전방위 확대인더스트리뉴스
+
+### 4. [한국서부발전 서인천발전본부, 탄소중립·녹색경영 대상 장관상 수상 - 중부일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE96eTd4LUMtdS1pZTNPczI4X0R1RnkzNlhzUmE3cHltWnlTN0o5LUc0dFljRVpQM1U3dWVkTk5DSm10NTNGNXVNRHdQZEh1UkdjZmZ6MjlhTUhySUhSbFUxdjJ0Vjd3NWQycEtXbFl6NA?oc=5)
+- **발행일:** Sat, 07 Nov 2026 07:00:00 GMT
+- **요약:** 한국서부발전 서인천발전본부, 탄소중립·녹색경영 대상 장관상 수상중부일보
+
+### 5. [책 읽는 문화에서 탄소중립까지...고령군, 사람과 미래를 키우는 지역혁신 - 프레시안](https://news.google.com/rss/articles/CBMia0FVX3lxTE1rU1Y5MGdycVFoZ0ZvMXk4WUVRMzRZeFF1MmJ5bjRPaE9FTHEwbVozSDBlR3BJSGdfRk1XU0tRMWFLVUlUdll3NEl0a0JRLXh0YWdXcTNEaWV2RDVsbUg5NnpCN3NRVExVVVZn?oc=5)
+- **발행일:** Sat, 07 Nov 2026 05:34:18 GMT
+- **요약:** 책 읽는 문화에서 탄소중립까지...고령군, 사람과 미래를 키우는 지역혁신프레시안
+
+---
+
 ## 📅 2026-11-06 ESG 및 규제 동향
 
 ### 1. [경기대, 지역사회와 손잡고 ESG 교육…수료생 실무 역량 강화 - 교수신문](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9LdnFPSk0xVnYtR0NXUXlVdUVaX2FWZFo5d2JxSDRnMm1lVmFoQ3NqR1hPdmlvVGJ0WFFtV0U3VDd2VG03TEpmOTZpQnBGQTZwZGJrdTItSWctcWc2WXBaTnlKWWZjUHc?oc=5)
