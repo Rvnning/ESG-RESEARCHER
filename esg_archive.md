@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-08 ESG 및 규제 동향
+
+### 1. [탄소중립 녹색경영대상, 기술혁신·현장 실천 성과 조명 - 환경포커스](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sbDd4UnU4LWk4a0VrS2VwOTJPTmpDWHhIdWYwOE1MTk53WDFJYXRYVnVnZ08tc1E3dE9OYVBHZTAtVkw2SXFHMEZJMFVGZTVrOHJ3ZWNHSkZnRi1jUUZqTmFqMA?oc=5)
+- **발행일:** Sun, 08 Nov 2026 09:31:40 GMT
+- **요약:** 탄소중립 녹색경영대상, 기술혁신·현장 실천 성과 조명환경포커스
+
+### 2. [[기고] 냉매만 바꾸는 탄소중립은 충분하지 않다 - 전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTFBmRm4yVUtzR0I1b0htUk9QcFRHWDRkcS1UWVczOXRmZllVTXd3UkdOZ0dheEhTZXM0a1I5OGVQZlliYWN1SVJfNnBQX2pSUQ?oc=5)
+- **발행일:** Sun, 08 Nov 2026 07:00:00 GMT
+- **요약:** [기고] 냉매만 바꾸는 탄소중립은 충분하지 않다전자신문
+
+### 3. [장관님, 전기가 급하니 탄소중립은 좀 미룰까요? - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQ3ljTURneHFNV2hBNHhnNDhmOUd4aWdYWm1UZHp4U0pBOVU1RWI0S0NaS0hqUjljNU8wV2pxNkpVVkdxVHpvcC15REtYbFlBTF9PRmpWQy01QWc?oc=5)
+- **발행일:** Mon, 26 Oct 2026 07:00:00 GMT
+- **요약:** 장관님, 전기가 급하니 탄소중립은 좀 미룰까요?KBS 뉴스
+
+### 4. [부천도시공사 9일부터 ESG 공모전 개최 - 기호일보](https://news.google.com/rss/articles/CBMib0FVX3lxTFBVSGVzQ0M2c25pV2xGRWJXN0Nfa1ZOelRydDlhYVpsdzh3a3pCQmJrNl9WSUZWTUtYTFZETHRzX1RjV3pXcmduSkJJMDEtWUYyeHlSNXh3dVlZcFB5cUVaVE5DdG5MWUJ0YXNnVU8zdw?oc=5)
+- **발행일:** Sun, 08 Nov 2026 05:27:00 GMT
+- **요약:** 부천도시공사 9일부터 ESG 공모전 개최기호일보
+
+### 5. [시민개방형 자원 회수기 설치 ‘탄소중립 에이스’ 파주 율곡고 - 경인일보](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4tdE91YUxuRFkwSExjLWhralNQbm9XSVdKdXFKZ1Z6dFpuQWVUNGxsVk9HU0UxUWMxNk15VG9KcnZXeHFmWUNCc2ZhWmFOdWlxdlE?oc=5)
+- **발행일:** Sun, 08 Nov 2026 11:37:49 GMT
+- **요약:** 시민개방형 자원 회수기 설치 ‘탄소중립 에이스’ 파주 율곡고경인일보
+
+---
+
 ## 📅 2026-11-07 ESG 및 규제 동향
 
 ### 1. [한국해양수산ESG연구조합, 제7기 ESG경영평가사 전문인력 양성…부산 산업계 대응 역량 강화 - 파이낸스투데이](https://news.google.com/rss/articles/CBMibEFVX3lxTFBYcm54TURBY0l5T2dZWUNMQlZxS0dOSnR3M09DREhZVzFlZllJSjNXUTQ5d1U4WmRCVTQ4THQ2UjVPSFhvbmstYTd2SjB3QndCeXBmZmpGd2w5c3VfaldVaVluaWR3ZmZwTjBMQQ?oc=5)
