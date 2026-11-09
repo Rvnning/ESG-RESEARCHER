@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-10 ESG 및 규제 동향
+
+### 1. [[ESG 칼럼] 공급망 실사는 데이터 흐름이다 - 헬로티](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xSFpqejZxU2FsQnBvT0hTRUowMEE0MEJ5R0ZRRUQ5UVdyWFd3ZmtoeHN6enFqUFZfQzRaeWpLR0swOFl5NHJldGNMMTVSR01DZ3k4amZyRnh3bmxNOVhB?oc=5)
+- **발행일:** Mon, 09 Nov 2026 07:08:45 GMT
+- **요약:** [ESG 칼럼] 공급망 실사는 데이터 흐름이다헬로티
+
+### 2. [한전, 탄소중립·녹색경영대상 장관 표창 - 환경일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5GOUw4NUtqX3NmUWhRbWhtODZucHBuWUtPam5sdkdWQlg5RG9ZRXhiWnBUdUtnb3JyeFFOdE44ZHdoOHJtMmZScVIxRkZBR1JLZ1FrUkJYanZrc1h1TEhvenNVNFB3WjJF?oc=5)
+- **발행일:** Mon, 09 Nov 2026 02:50:18 GMT
+- **요약:** 한전, 탄소중립·녹색경영대상 장관 표창환경일보
+
+### 3. [한전, ‘탄소중립·녹색경영대상’ 기후에너지환경부 장관 표창 - 에너지데일리](https://news.google.com/rss/articles/CBMickFVX3lxTE1uRThwSFZ3c0pCV20wYjQ4Vm9iWnJyM2N3cHhNZExJWW1XMmd3eFZuTVk4bnFXLUFNZ3NLZ245ajdFTEdDdGc0SWtIWGR2R0l1R1FfUjZEZzVHOVZxbXI5OHExMHlVTldOa3RXdE9ZV2Fxdw?oc=5)
+- **발행일:** Mon, 09 Nov 2026 01:55:20 GMT
+- **요약:** 한전, ‘탄소중립·녹색경영대상’ 기후에너지환경부 장관 표창에너지데일리
+
+### 4. [[특별 기고] 학교 탄소중립, 교과서에서 일상으로 - 굿모닝충청](https://news.google.com/rss/articles/CBMickFVX3lxTE9hcjJPTXd0RkpvS21UM041ZjBpc1ZOWDFwZkdJMU5OUVhXbEJRRnFsb3VqamdCTl9mYUFWaHpmOHlDNDhBMHR0UXVLSUJHWjlOM1dYMV9FTGludWw4Rk83Z1RFcGFNTUt6MjJaV1dzSlVYUQ?oc=5)
+- **발행일:** Mon, 09 Nov 2026 07:34:35 GMT
+- **요약:** [특별 기고] 학교 탄소중립, 교과서에서 일상으로굿모닝충청
+
+### 5. [기업 34.9% "탄소중립 정책 효과 미흡"…지원사업 부족 지목 - ESG경제](https://news.google.com/rss/articles/CBMibEFVX3lxTE1vWTRFQjNTMk5TckpQZzZtY3ZnN1E4cHJROUp1VHJVQWYwRV9nNGlUSjdXUkNERjk0X1JUV1Y2cW9NamtKNmgyNnpaSm9UV293S05KQ0xWSG5lN3RiemxncF83Z3Rvc3BKOHlGeA?oc=5)
+- **발행일:** Mon, 09 Nov 2026 05:30:53 GMT
+- **요약:** 기업 34.9% "탄소중립 정책 효과 미흡"…지원사업 부족 지목ESG경제
+
+---
+
 ## 📅 2026-11-08 ESG 및 규제 동향
 
 ### 1. [탄소중립 녹색경영대상, 기술혁신·현장 실천 성과 조명 - 환경포커스](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9sbDd4UnU4LWk4a0VrS2VwOTJPTmpDWHhIdWYwOE1MTk53WDFJYXRYVnVnZ08tc1E3dE9OYVBHZTAtVkw2SXFHMEZJMFVGZTVrOHJ3ZWNHSkZnRi1jUUZqTmFqMA?oc=5)
