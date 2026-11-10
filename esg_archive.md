@@ -2,6 +2,30 @@
 
 ## 📅 2026-11-10 ESG 및 규제 동향
 
+### 1. [[수원교구사 한 페이지](23) 탄소중립 선포 - 가톨릭신문](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NY1JCOS1rVHZFbGppaHU4TE02akFRYjExWjdVVHI0dzZEM1BxMEZYTWhnR244bkNFUkxKcDBuYURZcS00TEVCV1RVUFhZLWNOMnlHcGR3ZWZWN0Q4S2E0dk13?oc=5)
+- **발행일:** Tue, 10 Nov 2026 08:52:06 GMT
+- **요약:** [수원교구사 한 페이지](23) 탄소중립 선포가톨릭신문
+
+### 2. [[기획]AI에 집중된 화력…탄소중립은 뒷전 - 매일일보](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5QVnlWRmpSMllIMEh5WWpzaGRsMTJOSlJJSUZ3cGpHeDU3TzFjSkk3YXE1NnBLYmpZVllxMVRIMWlxUjNpYlVaVkIyM1M4bW5CbnNZZHkxYkpnZWVxZDV0Nm1HRjc?oc=5)
+- **발행일:** Tue, 10 Nov 2026 05:38:36 GMT
+- **요약:** [기획]AI에 집중된 화력…탄소중립은 뒷전매일일보
+
+### 3. [에기평, 제8기 국민참여혁신단 출범…에너지 R&D·ESG 경영혁신 강화 - 에너지데일리](https://news.google.com/rss/articles/CBMickFVX3lxTE5fQ05vWVNrcFNNbE9xWHFMQ2lLdDFMbjNlTlZSdXFtajBWX0h3X1RKRW5CeUZ6SDdxVW5ZMjhwT0FsNU1xMUFadk5ORTkxVE8yWFVBdElJeC1XakJZZl9zLXJqS3FETkNCRlV2V3UtMGhJZw?oc=5)
+- **발행일:** Tue, 10 Nov 2026 05:39:05 GMT
+- **요약:** 에기평, 제8기 국민참여혁신단 출범…에너지 RD·ESG 경영혁신 강화에너지데일리
+
+### 4. [경남환경재단, 도민·공무원 탄소중립 인식교육 - 경남신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FXzJYNTBmcUNHQmNmWHB6WE9VRjhvdkxsYk5GS0E2NHhFUHZsSGtUZ2lhajhISWhGcTFwNVI5ZlB0bjkwQzFScTI2VEZsdWtUMUJnZmtjN1k1QQ?oc=5)
+- **발행일:** Tue, 10 Nov 2026 08:42:34 GMT
+- **요약:** 경남환경재단, 도민·공무원 탄소중립 인식교육경남신문
+
+### 5. [[ESG트렌드] 용산구, 청소년·주민 함께한 ‘2026 으~쓱(ESG) 페스티벌’ 개최 外 - 베이비뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTFBxajBRNTFQeWwyc2NPbEEyYXNodUhvZndlMjR4NkJQNTAwSXZlZk9FMWZZTzUxc0JvbE9MUU9wN24yV3U4XzZKdDJ5VHlkS2UtbTc3X1pacU9YOWloZHdwTEI2NVFLSUVHRTluRQ?oc=5)
+- **발행일:** Tue, 10 Nov 2026 11:23:42 GMT
+- **요약:** [ESG트렌드] 용산구, 청소년·주민 함께한 ‘2026 으~쓱(ESG) 페스티벌’ 개최 外베이비뉴스
+
+---
+
+## 📅 2026-11-10 ESG 및 규제 동향
+
 ### 1. [[ESG 칼럼] 공급망 실사는 데이터 흐름이다 - 헬로티](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xSFpqejZxU2FsQnBvT0hTRUowMEE0MEJ5R0ZRRUQ5UVdyWFd3ZmtoeHN6enFqUFZfQzRaeWpLR0swOFl5NHJldGNMMTVSR01DZ3k4amZyRnh3bmxNOVhB?oc=5)
 - **발행일:** Mon, 09 Nov 2026 07:08:45 GMT
 - **요약:** [ESG 칼럼] 공급망 실사는 데이터 흐름이다헬로티
