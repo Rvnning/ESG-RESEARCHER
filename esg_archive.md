@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-11 ESG 및 규제 동향
+
+### 1. [재생에너지 규제 완화, 농촌 환경권 침해 우려 - 환경일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYanVoSWV2YVkyMXhGSlJEeTVtVV9LVE5xdk9Ga0VfQ3VfN2lFNVlBeHpZSHNsd0FHV1VZUVR5eG1hZTBoWm1JU3R0LWJpSnZycS0tcHo0SU9OWnBrWnY3cUkzY0FMaURP?oc=5)
+- **발행일:** Wed, 11 Nov 2026 06:04:05 GMT
+- **요약:** 재생에너지 규제 완화, 농촌 환경권 침해 우려환경일보
+
+### 2. [코웨이, 한국ESG기준원 평가 통합 A+ 획득 - 디일렉](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1kY0tEb2xkQ09ncV9wQXJmTXE1ZDZnR2l6MnN4Z0dJcm1Ib01Ec0tMU0d2QWpfaGJwQWZyeEtnV1g3QmJYakdvUHpMa2tRVE9PanRYemtKOVZMZFMzNS14d1Zac2hodw?oc=5)
+- **발행일:** Wed, 11 Nov 2026 05:37:42 GMT
+- **요약:** 코웨이, 한국ESG기준원 평가 통합 A+ 획득디일렉
+
+### 3. [대원제약, 한국ESG기준원 ESG 평가 2년 연속 통합 A등급 - MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qZGdtY0liQ3k1RUdrUnN2TFBIbVFpWHc0cHZUb3pVOWxNaEJCMmtCRWZyMVp3M2ZTYl9TU1N0dTUzRW0xdDJyNG50dW1xeXZxc2E5X2N2aw?oc=5)
+- **발행일:** Wed, 11 Nov 2026 08:30:00 GMT
+- **요약:** 대원제약, 한국ESG기준원 ESG 평가 2년 연속 통합 A등급MEDI:GATE NEWS
+
+### 4. [Celltrion Earns First-Ever MSCI ESG ‘AAA’ Rating - 팜이데일리](https://news.google.com/rss/articles/CBMibkFVX3lxTE55UmpkUkppNXVBMXR0NjJCdDlIcXVzb0Z2WlFUNUFUYk1YUkI2dUtTQTFWWjdOZHdLaUpCNW5vR2E5YjlpdkkyeFZVbFEwNWlvTnNNcnJPTlRnaDloUFB2VERfZDVZdkFxWVF3N2Jn?oc=5)
+- **발행일:** Wed, 11 Nov 2026 04:43:59 GMT
+- **요약:** Celltrion Earns First-Ever MSCI ESG ‘AAA’ Rating팜이데일리
+
+### 5. [DS단석, ESG 평가 ‘통합 A’…사회 부문 두 단계 상승 - 철강금속신문](https://news.google.com/rss/articles/CBMiakFVX3lxTE5RLXlxOGhTaC16TUZ3V3lBSnVWQlNyY3p0cGtBVmoxNFR4eTdpVEpoS1ZnMm1OZ0NoSlEzLXp0S1pTMXVDQXluRzhJYjZxMHZnVVBpQ19LNk5vdzgzSVRsdVFQdjR3Sl9lMHc?oc=5)
+- **발행일:** Wed, 11 Nov 2026 08:06:03 GMT
+- **요약:** DS단석, ESG 평가 ‘통합 A’…사회 부문 두 단계 상승철강금속신문
+
+---
+
 ## 📅 2026-11-10 ESG 및 규제 동향
 
 ### 1. [[수원교구사 한 페이지](23) 탄소중립 선포 - 가톨릭신문](https://news.google.com/rss/articles/CBMiYkFVX3lxTE1NY1JCOS1rVHZFbGppaHU4TE02akFRYjExWjdVVHI0dzZEM1BxMEZYTWhnR244bkNFUkxKcDBuYURZcS00TEVCV1RVUFhZLWNOMnlHcGR3ZWZWN0Q4S2E0dk13?oc=5)
