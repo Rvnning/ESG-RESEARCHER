@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-12 ESG 및 규제 동향
+
+### 1. [“한난, ESG경영 성과 대외적으로 인정받았다” - 에너지데일리](https://news.google.com/rss/articles/CBMickFVX3lxTE93RDJuVF8zWkp0Y1k2OTd0bWNia1dFVDhHZWl3Mk44TUdiRjdGem1saHhCY2lsNmM0VDM4T2t1eHZOZDVFbGxsSnpYekgtdjVWTGh5QVZjeXdVN0VkcUZDOXYxbXNwZHZ3Z0hQNUxlY3Y1dw?oc=5)
+- **발행일:** Thu, 12 Nov 2026 06:53:02 GMT
+- **요약:** “한난, ESG경영 성과 대외적으로 인정받았다”에너지데일리
+
+### 2. [[게시판] 스틱인베스트먼트, 한국ESG경영개발원 우수상 수상 - 연합뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBqdmJ5YV9lNEN5emkzZ0hyQTdCcnVjMjVDRjJURG5MYVZLSkluemFpS1hSbWhFVkl3S0xJV3NlLW1EQXZEZUppckdQTWM5aDJVVnpJN2Q4RENKWkxfbFE4M9IBYEFVX3lxTFBqdmJ5YV9lNEN5emkzZ0hyQTdCcnVjMjVDRjJURG5MYVZLSkluemFpS1hSbWhFVkl3S0xJV3NlLW1EQXZEZUppckdQTWM5aDJVVnpJN2Q4RENKWkxfbFE4Mw?oc=5)
+- **발행일:** Thu, 12 Nov 2026 08:04:04 GMT
+- **요약:** [게시판] 스틱인베스트먼트, 한국ESG경영개발원 우수상 수상연합뉴스
+
+### 3. [NIA, ESG 동반성장 부문 최우수상 수상 - 경북신문](https://news.google.com/rss/articles/CBMiWEFVX3lxTE5fbFB0aVE3VDlkeXpLcm1xcEtWXzdwUWVtUncxbWhxZVhweThKUjdTUGtudmJwb1l4bWhGdTVPaHhxOF93aGNyTUFLQXpqSGZGWGFxNVBwdUI?oc=5)
+- **발행일:** Thu, 12 Nov 2026 10:43:36 GMT
+- **요약:** NIA, ESG 동반성장 부문 최우수상 수상경북신문
+
+### 4. [SK증권, ESG 평가 2년 연속 A등급…기후위험 관리 강화 - 매일경제 마켓](https://news.google.com/rss/articles/CBMiUkFVX3lxTE50ckVWMUR6UDVOWFdqWmp1Qm5mbDQ1WHl4QVo2NUxRekp5TzJyemhENFpiWlZXa3dSRFBRNmY4X3RROEFVLVZnb01XUDdBRE93dXc?oc=5)
+- **발행일:** Thu, 12 Nov 2026 07:00:01 GMT
+- **요약:** SK증권, ESG 평가 2년 연속 A등급…기후위험 관리 강화매일경제 마켓
+
+### 5. [SK이터닉스, 재생에너지 기반 ESG 경영 ‘A등급’으로 입증 - 일렉트릭파워](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBxMlBLamtKNWdXbUIyQ0Fsd2FRTDhHVzVSeTRxV3hvVTdaTjYxYXhSbkZpZ2VRTlpnbjFsSjdpck5kT1ZpT3RXdGNHalE3OC1ucWNYSEdaQmFNMVotcjR2YlZSUXU?oc=5)
+- **발행일:** Thu, 12 Nov 2026 00:18:00 GMT
+- **요약:** SK이터닉스, 재생에너지 기반 ESG 경영 ‘A등급’으로 입증일렉트릭파워
+
+---
+
 ## 📅 2026-11-11 ESG 및 규제 동향
 
 ### 1. [재생에너지 규제 완화, 농촌 환경권 침해 우려 - 환경일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBYanVoSWV2YVkyMXhGSlJEeTVtVV9LVE5xdk9Ga0VfQ3VfN2lFNVlBeHpZSHNsd0FHV1VZUVR5eG1hZTBoWm1JU3R0LWJpSnZycS0tcHo0SU9OWnBrWnY3cUkzY0FMaURP?oc=5)
