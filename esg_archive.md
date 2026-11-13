@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-13 ESG 및 규제 동향
+
+### 1. [한국기술교육대, 탄소중립 캠퍼스 구현 가속… ‘35일 ESG 챌린지’ 호응 - 충청뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5Fb2NGUmQ0TTF6ZC1XNEJmX0luUFUtc2Y5blFDSTBIY19TazNjLWl2VGUxOVoyek1PY05aWTBxSjRacnRoc0ZvNWE2c2w3RVcwQ0ZuVGJ4QjhtMFd4OXB4N1liM2w5ME5acHR1Tw?oc=5)
+- **발행일:** Fri, 13 Nov 2026 05:17:10 GMT
+- **요약:** 한국기술교육대, 탄소중립 캠퍼스 구현 가속… ‘35일 ESG 챌린지’ 호응충청뉴스
+
+### 2. [삼성바이오로직스, 한국ESG기준원 평가서 '통합 A+' 획득 - 팜이데일리](https://news.google.com/rss/articles/CBMibkFVX3lxTE5wYnZEQThJV2FNOE5OOGhqWUlGQlE3MDd1SHZTb0M0NnFlM0tBN2o1Z3FPdDZQc29MRmdTN1RLN2I0aWRGV19FTUVwMHZGdmtVVEF0eWo4d1dIOWU5WEkyU0xYMzRaanJMbGFCZS1B?oc=5)
+- **발행일:** Fri, 13 Nov 2026 01:30:50 GMT
+- **요약:** 삼성바이오로직스, 한국ESG기준원 평가서 '통합 A+' 획득팜이데일리
+
+### 3. [[ESG칼럼] AI가 부른 전력수요 폭증과 그린워싱 리스크 - 전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTE9qUjFhSW82VnZpLU5pcW4tU3htY29mYTlEaVUwWUlkZ2NFeFF6OUQ5MVNzRVVxOFc3dTV5TW8wajNBLXBqYUpqdTcxSGR2UQ?oc=5)
+- **발행일:** Fri, 13 Nov 2026 07:00:00 GMT
+- **요약:** [ESG칼럼] AI가 부른 전력수요 폭증과 그린워싱 리스크전자신문
+
+### 4. [에너지정보문화재단, 노원구와 '2026 지역사회 에너지·탄소중립 거버넌스 역량강화' 프로그램 개최 - 일렉트릭파워](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5qdnI5OWNabTlXWU5HSDBaODliakVvMHdaZWRHNjdGLWIxVVRRQjlKTUQ4OVJRcXdXbWNxbEc4SHAweWpURkRaY0FjSFRPRTE3eFd3SUZpRDc3a2hoU0pnRDNtaGE?oc=5)
+- **발행일:** Fri, 13 Nov 2026 08:26:00 GMT
+- **요약:** 에너지정보문화재단, 노원구와 '2026 지역사회 에너지·탄소중립 거버넌스 역량강화' 프로그램 개최일렉트릭파워
+
+### 5. [하나금융, 글로벌 ESG ‘3년연속 AAA’…환경경영 최고 수준 입증 - 재외동포신문](https://news.google.com/rss/articles/CBMibEFVX3lxTE5oaVZGQVFVSzZEZGxDdmZHY2dkSV9mY1ZueW5nSUJHOE9YMllQYWRabTVjUzJVSllrWlpXRjNaVktxLVdxMVFhd0pzUkx3TEw4Qll2V2gzZVBVdXZkN0h1TkpfY1ppRkJPUDFlWA?oc=5)
+- **발행일:** Fri, 13 Nov 2026 08:16:49 GMT
+- **요약:** 하나금융, 글로벌 ESG ‘3년연속 AAA’…환경경영 최고 수준 입증재외동포신문
+
+---
+
 ## 📅 2026-11-12 ESG 및 규제 동향
 
 ### 1. [“한난, ESG경영 성과 대외적으로 인정받았다” - 에너지데일리](https://news.google.com/rss/articles/CBMickFVX3lxTE93RDJuVF8zWkp0Y1k2OTd0bWNia1dFVDhHZWl3Mk44TUdiRjdGem1saHhCY2lsNmM0VDM4T2t1eHZOZDVFbGxsSnpYekgtdjVWTGh5QVZjeXdVN0VkcUZDOXYxbXNwZHZ3Z0hQNUxlY3Y1dw?oc=5)
