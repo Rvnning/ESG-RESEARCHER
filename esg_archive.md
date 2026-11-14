@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-14 ESG 및 규제 동향
+
+### 1. [삼성바이오로직스, ESG 평가 통합 A+ 획득...국내 상장사 상위 1.8% - 팍스경제TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoQmtMZThaZFNDUnpDQldRNmlobDNTdWlhUVB6OE5XTy1MMEJyQldvOU14cFp0VTJaWWtlQWJHY1BFQjlydWI3X3RYTDhya2VWSkFtZFBkZXFPS295eHE5OVdVeVFhcFU?oc=5)
+- **발행일:** Sat, 14 Nov 2026 09:09:22 GMT
+- **요약:** 삼성바이오로직스, ESG 평가 통합 A+ 획득...국내 상장사 상위 1.8%팍스경제TV
+
+### 2. [GC·GC녹십자, 한국ESG기준원 ESG 평가 종합 A등급 획득 - MEDI:GATE NEWS](https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LSkZqdW5uX18tLUE5dkJYVi1sMkx4RHFHa0tmVkpKamlfcmV1MFpqUUVqQy1qTmszRTVOcUFvcGhyU2x2V2JyWldnbThrVzh0WVF6R2ltbw?oc=5)
+- **발행일:** Fri, 13 Nov 2026 21:28:57 GMT
+- **요약:** GC·GC녹십자, 한국ESG기준원 ESG 평가 종합 A등급 획득MEDI:GATE NEWS
+
+### 3. [장관님, 전기가 급하니 탄소중립은 좀 미룰까요? - KBS 뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1aQ3ljTURneHFNV2hBNHhnNDhmOUd4aWdYWm1UZHp4U0pBOVU1RWI0S0NaS0hqUjljNU8wV2pxNkpVVkdxVHpvcC15REtYbFlBTF9PRmpWQy01QWc?oc=5)
+- **발행일:** Mon, 26 Oct 2026 07:00:00 GMT
+- **요약:** 장관님, 전기가 급하니 탄소중립은 좀 미룰까요?KBS 뉴스
+
+### 4. [현장에서 본 중구시설관리공단 ESG 경영의 힘…‘6년 연속 인정기관·2년 연속 S등급’ 비결은? - 시정일보](https://news.google.com/rss/articles/CBMia0FVX3lxTE4tcXJxUWg3SC1JQ1ppdUgtVEtDd04yakZyLVJMeXZqOFF0NjFCNGwyUFBycmNtMDhkQmhFeG44WjZqYUdVVTNDZ1B4MTFaUVA2eVZRQkFMbFFsN282R1FDdFJlNHlrTXc3cTE4?oc=5)
+- **발행일:** Sat, 14 Nov 2026 02:01:21 GMT
+- **요약:** 현장에서 본 중구시설관리공단 ESG 경영의 힘…‘6년 연속 인정기관·2년 연속 S등급’ 비결은?시정일보
+
+### 5. [한국해양조사협회, 대한적십자사 'ESG 실천기업' 동참 - 글로벌뉴스통신GNA](https://news.google.com/rss/articles/CBMidEFVX3lxTE1FLXptV1Nzb1YxTFpmLXplRjZ2bEVoeEpsaXJPQ2YxUHZPRVJHend1TjdGaHZLcHc0Q2lrRXdjM05VMGtlLVhWQ1MyZi1Pd2lQQloySUhLT1lvbVhCMURHZmRUYjNwUHpQekNYdS1Bd1Flalla?oc=5)
+- **발행일:** Sat, 14 Nov 2026 11:22:37 GMT
+- **요약:** 한국해양조사협회, 대한적십자사 'ESG 실천기업' 동참글로벌뉴스통신GNA
+
+---
+
 ## 📅 2026-11-13 ESG 및 규제 동향
 
 ### 1. [한국기술교육대, 탄소중립 캠퍼스 구현 가속… ‘35일 ESG 챌린지’ 호응 - 충청뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTE5Fb2NGUmQ0TTF6ZC1XNEJmX0luUFUtc2Y5blFDSTBIY19TazNjLWl2VGUxOVoyek1PY05aWTBxSjRacnRoc0ZvNWE2c2w3RVcwQ0ZuVGJ4QjhtMFd4OXB4N1liM2w5ME5acHR1Tw?oc=5)
