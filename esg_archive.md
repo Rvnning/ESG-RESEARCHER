@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-15 ESG 및 규제 동향
+
+### 1. [상주여고 학생들, 탄소중립계획 수치 정정·정책 개선 요구 - 경북일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE9FYWl3QlVrZksyTDZZQUZrSEx2ZmJqNmdKVmdnZDRaQnUtYlo3OXBocVBQS2t3ZmJTMm9KSmFJVFZwTUFjUFZuN3VtZkd3dkx1ZzJQZDFrd1FhQ0c3ZzJOMTBPQldvVTh5RTN6N0w4UQ?oc=5)
+- **발행일:** Sun, 15 Nov 2026 08:51:34 GMT
+- **요약:** 상주여고 학생들, 탄소중립계획 수치 정정·정책 개선 요구경북일보
+
+### 2. [수원특례시, 시민과 함께하는 ‘2026 탄소중립 그린도시 포럼’ 개최 - 세계환경신문](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEdjdtdXVJejBMakhKZnpGMDB1TjQ0aGc0b3NuQ25mVGhYMzd4SGJtZFhVaFBiTGY0Sk9UY3pQYmEwRi1WNW93YzdSeG96ZDNKWm1lM1F2SGtxQU9SLTRR?oc=5)
+- **발행일:** Sun, 15 Nov 2026 12:57:08 GMT
+- **요약:** 수원특례시, 시민과 함께하는 ‘2026 탄소중립 그린도시 포럼’ 개최세계환경신문
+
+### 3. [산인공 전남지사·환경단체, 탄소중립·ESG 맞손 - 진일보 | 전남일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE5QVFZ4b2VDd09QdEFHTVAzM19VcXJjT1JlNVhMdHAteE0yUld0UThJdWJBdWVaX25ybUR3cGFLaEtZTWFhSGJzMkIyajhMRkZtakFleEJOUmtrQWM0WkxhYkxWc2tSTHBGUGR0blVGYw?oc=5)
+- **발행일:** Sun, 15 Nov 2026 05:27:21 GMT
+- **요약:** 산인공 전남지사·환경단체, 탄소중립·ESG 맞손진일보 | 전남일보
+
+### 4. [BNK금융, ESG 평가서 5년 연속 ‘A’ - 국제신문](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOU2xPLUlHQVE4LW0yN09IR0NHMnFDTTBGMGNvYlZFQU83cDZ5aXdxcV9Pa3dHMHlXOExNbVJlazhaaHN4ZHZySXFTbm5IbnJGa29fU0F1ZUNqUjdBczRiMWJtd2pSdGpwR0VUVUdTQXBNQm5LbE9UajFJcklWakllYUpKb1NVUlBCQmJF?oc=5)
+- **발행일:** Sun, 15 Nov 2026 10:00:00 GMT
+- **요약:** BNK금융, ESG 평가서 5년 연속 ‘A’국제신문
+
+### 5. [대한상의, COP31에 산업계 대표단 파견⋯탄소중립 성과 알린다 - 브릿지경제](https://news.google.com/rss/articles/CBMiWkFVX3lxTFByMHhfN1VMSmVOUlB0MzhiOG50MzBSNi1hbE5JNGlZdGFjc0lKUmlfZGllRmNQQ2FhdG5PX1dPZU8xWDdYZXZ1NGFLRjlwSE9pa3lhZDZmTjZSdw?oc=5)
+- **발행일:** Sun, 15 Nov 2026 09:56:00 GMT
+- **요약:** 대한상의, COP31에 산업계 대표단 파견⋯탄소중립 성과 알린다브릿지경제
+
+---
+
 ## 📅 2026-11-14 ESG 및 규제 동향
 
 ### 1. [삼성바이오로직스, ESG 평가 통합 A+ 획득...국내 상장사 상위 1.8% - 팍스경제TV](https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBoQmtMZThaZFNDUnpDQldRNmlobDNTdWlhUVB6OE5XTy1MMEJyQldvOU14cFp0VTJaWWtlQWJHY1BFQjlydWI3X3RYTDhya2VWSkFtZFBkZXFPS295eHE5OVdVeVFhcFU?oc=5)
