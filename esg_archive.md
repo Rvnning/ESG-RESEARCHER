@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-16 ESG 및 규제 동향
+
+### 1. [유한양행, 제4회 ‘유한ESG학술상’ 개최…ESG 우수 연구 지원 - Daily NTN](https://news.google.com/rss/articles/CBMiakFVX3lxTE1mRDZNY1dWUGREV2M2SVZmNjdSRGpYTXEwZlkxMWc3VWdMeTR5MDF4QzlVd0p5UHhWcTdBZHZiUFhQSk94Z1RwRUNEbGp0VVAwSHFSRDhnODE5WFJkMGoyMWl3aUgwdl9NZkE?oc=5)
+- **발행일:** Mon, 16 Nov 2026 07:23:58 GMT
+- **요약:** 유한양행, 제4회 ‘유한ESG학술상’ 개최…ESG 우수 연구 지원Daily NTN
+
+### 2. [코레일, 대전역서 탄소중립 실천 캠페인 - 굿모닝충청](https://news.google.com/rss/articles/CBMickFVX3lxTFB2cllVUWEwMUIzczh3WjR4VTByMUl0eDFwLWJRUk5lTXdFNE5jRzNvLWNCZjhiNll3V1dfdk94VmFxUWE0QTZSSzlqTTNoOFplVTlCSHJCQU9KcFF0Qk55OC1kaFp4SFN0UVdTMlFScDJoQQ?oc=5)
+- **발행일:** Mon, 16 Nov 2026 10:09:56 GMT
+- **요약:** 코레일, 대전역서 탄소중립 실천 캠페인굿모닝충청
+
+### 3. [유한양행, 제4회 ‘유한ESG학술상’ 시상…ESG 연구 생태계 지원 - 더나은미래](https://news.google.com/rss/articles/CBMiUkFVX3lxTE9MWnowWlh2OTNvMWg5TEN2c3RCdGtfVkdCeE1EaTNBbTh5Ty1tQVE0TlFROFh3TEdyeGFKQlVNQ1p5OWNwUEpjeTZsY1dYdzdMZUE?oc=5)
+- **발행일:** Mon, 16 Nov 2026 07:28:00 GMT
+- **요약:** 유한양행, 제4회 ‘유한ESG학술상’ 시상…ESG 연구 생태계 지원더나은미래
+
+### 4. [유한ESG학술상 대상에 청주대 이원준 교수 - 메디포뉴스](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5URTZ2TmswTWhmMEVYeG5jN0E3cjI4Zm1fLWQ4VVM0THZETWhzT0xibkxmMUtRWlhndkY4VEd2X2lYNnNiVEdXZEQxR3ByYXctUWNYMmtLMWJqdktVTkVSckp1bEI?oc=5)
+- **발행일:** Mon, 16 Nov 2026 14:22:34 GMT
+- **요약:** 유한ESG학술상 대상에 청주대 이원준 교수메디포뉴스
+
+### 5. [OCI홀딩스, ESG 종합 A등급으로 상승...OCI는 2년 연속 A 유지 - 전기신문](https://news.google.com/rss/articles/CBMibEFVX3lxTE9MZ3BaNkZROWpScVpwR3lUMGttR0RodFk4UkNfV0pSVHQwalpEQUNQQkczLU12dGZ4UzhOeE1ZOElNOTVzYmhiWDFkZzJkR3RQVVVHSXV2VUtNMDZoQkdVM2ZRU2pwcXdndHlPadIBcEFVX3lxTE5zMmhpb25wMmNiM3NxYzFtODJyWS1OWkxGMGRfdzQ3eVBwanRrb2VrQ1djVHZZUEVsMnVYeVQ3ckp2Vl8yMzdSU0FvWUFkZ0kxVEZ3SUVGTkVxM2tta01KSlhHT0I2MVdfa29wZEllOFI?oc=5)
+- **발행일:** Mon, 16 Nov 2026 04:15:27 GMT
+- **요약:** OCI홀딩스, ESG 종합 A등급으로 상승...OCI는 2년 연속 A 유지전기신문
+
+---
+
 ## 📅 2026-11-15 ESG 및 규제 동향
 
 ### 1. [상주여고 학생들, 탄소중립계획 수치 정정·정책 개선 요구 - 경북일보](https://news.google.com/rss/articles/CBMib0FVX3lxTE9FYWl3QlVrZksyTDZZQUZrSEx2ZmJqNmdKVmdnZDRaQnUtYlo3OXBocVBQS2t3ZmJTMm9KSmFJVFZwTUFjUFZuN3VtZkd3dkx1ZzJQZDFrd1FhQ0c3ZzJOMTBPQldvVTh5RTN6N0w4UQ?oc=5)
