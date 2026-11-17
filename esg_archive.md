@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-18 ESG 및 규제 동향
+
+### 1. [선진, 3년 연속 ESG 통합 A등급…사회 부문은 A+로 상승 - 돼지와사람](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VczYwdl91Y3R2QVVEbjd1Ry13QWV4akcwUVZMX3pFaHAwWmdjWkdpSzcwT2JQWnJVREM1UnlrcWw2N0hrUFpIMDlNdVF0WkE3enY0SFZQUEJsejc0ZnFKU0xqNG4?oc=5)
+- **발행일:** Tue, 17 Nov 2026 12:02:16 GMT
+- **요약:** 선진, 3년 연속 ESG 통합 A등급…사회 부문은 A+로 상승돼지와사람
+
+### 2. [한국정보처리학회 ESG 연구회, ‘AI 시대, ESG가 가야 할 길’ 창립 기념 세미나 개최 - 보안뉴스](https://news.google.com/rss/articles/CBMia0FVX3lxTFBNZ05ZalVCSXg1TGRPWU9HeEhabFk2QmRnNjJLLXA2cEFGSEttdzRHQ25xQjVCOXI1YUFrSm56TFlUalB4ME1zUnUtdWJRT2dfd2NtTnRneHB4MzdpMmgxV204TWRtNTJicDZ3?oc=5)
+- **발행일:** Tue, 17 Nov 2026 06:52:49 GMT
+- **요약:** 한국정보처리학회 ESG 연구회, ‘AI 시대, ESG가 가야 할 길’ 창립 기념 세미나 개최보안뉴스
+
+### 3. [탄소·ESG 데이터 갖춘 기업, 시장 기회 잡는다 - 스트레이트뉴스](https://news.google.com/rss/articles/CBMic0FVX3lxTFA5MkdLYU9SY0JVVVNYdG5hTXZBWmprWXIwV2FNcVcydHphMnZtWFFiSjRjTnYyTHl1enZ2a2N3Y0FFeUZsY3ZXOW4tRmMzYnhtaVVIOEFrNzZrMTFyVVNRcDgwcWw1eS00TFR6bllFZ0lMdXc?oc=5)
+- **발행일:** Tue, 17 Nov 2026 10:41:35 GMT
+- **요약:** 탄소·ESG 데이터 갖춘 기업, 시장 기회 잡는다스트레이트뉴스
+
+### 4. [신성이엔지, ESG 평가 첫 AA등급...1년 새 204계단 상승 - 전기신문](https://news.google.com/rss/articles/CBMibEFVX3lxTE54endrWExnZDBZVFdzS2w5VjN5UW9LRWxHUEZOMXJ5RU5MVHJta1dMRFRkYU82aHpQMlNLQU9sbGt3Qk5NdExfNDJQa09EUjlqcWM5dDhUYk02OEl1b2VDVmIyLUlDYXh4NHNyb9IBcEFVX3lxTE9WaTQ0OFVyOVhYcTV2TlVZbFNhdHBrY1g2OEdmUGxaN3dlenY1c24xVGVPWElJcTlmU1hQQlgwd3VVcmgyYU5TbVAyTXMtdHFBYmJKNEE5RzFmLUdwTG9hVkpuSFBicmtUbWs5RUxJaVI?oc=5)
+- **발행일:** Tue, 17 Nov 2026 07:17:17 GMT
+- **요약:** 신성이엔지, ESG 평가 첫 AA등급...1년 새 204계단 상승전기신문
+
+### 5. [한국장애인고용공단, 한국ESG학회와 업무협약 체결 - 에이블뉴스](https://news.google.com/rss/articles/CBMibkFVX3lxTFBVc0FZaEktRjBldFBiMzVTcDJteWF2aEZLRXdMOW9hU3lVY1BncXJXTVN4SmNxUlJmZ3JJaFdZZHY5S1JmVlNUX0xlMGY1ZUozcGsya3FtVDc0dFVkVnE3VWRZM3JUR0pLOTdkTktn0gFyQVVfeXFMTkN5MlQzY0pYYU5KVFFMZDI1eUFERTlqSTgtMGFNNkZJd2djQllDWXc0LUU0ZDlNc1ZQZkx5b0ZRQzNFckp4NmFTYnVfMWQ2V2lXUE5peG1ncnFaZElCRTg3b0VMN0c0R0Q4R1ZSZlJ2QjN3?oc=5)
+- **발행일:** Tue, 17 Nov 2026 08:34:21 GMT
+- **요약:** 한국장애인고용공단, 한국ESG학회와 업무협약 체결에이블뉴스
+
+---
+
 ## 📅 2026-11-16 ESG 및 규제 동향
 
 ### 1. [유한양행, 제4회 ‘유한ESG학술상’ 개최…ESG 우수 연구 지원 - Daily NTN](https://news.google.com/rss/articles/CBMiakFVX3lxTE1mRDZNY1dWUGREV2M2SVZmNjdSRGpYTXEwZlkxMWc3VWdMeTR5MDF4QzlVd0p5UHhWcTdBZHZiUFhQSk94Z1RwRUNEbGp0VVAwSHFSRDhnODE5WFJkMGoyMWl3aUgwdl9NZkE?oc=5)
