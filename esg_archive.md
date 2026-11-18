@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-19 ESG 및 규제 동향
+
+### 1. [환자 안전부터 친환경 경영까지…병원에도 'ESG'가 필요한 이유 - 헬스경향](https://news.google.com/rss/articles/CBMia0FVX3lxTFBpQlJIRU9MNGlHc2ZObmhJTTIwWU1ZaU1WUXFvSlVfTzJ0X0J6TURtcnBtMnNlRkJxa0xnS0hkZUdSNEJQQU1La2dCZlhvT1F6X2lCRk1oX0Z6MGZEdlQteUhsVjNjTG5uVjQ4?oc=5)
+- **발행일:** Wed, 18 Nov 2026 12:33:19 GMT
+- **요약:** 환자 안전부터 친환경 경영까지…병원에도 'ESG'가 필요한 이유헬스경향
+
+### 2. [지하수, 수자원 넘어 재생에너지원으로…탄소중립·물안보 새 해법 부상 - 에너지데일리](https://news.google.com/rss/articles/CBMickFVX3lxTE9MZ2lDb21IWVQtV2pweGtSelphdWM0RW5UaDg1MHhVVnhScGt0dnVLb3didGFrVHJTRWpxbldIUWJRaUxyNHo2T1BYdDdoTHVGYXlZZGR1anJrSUJuRFctYktkcUtmSzZtMWdBSVJfOGpPUQ?oc=5)
+- **발행일:** Wed, 18 Nov 2026 07:08:02 GMT
+- **요약:** 지하수, 수자원 넘어 재생에너지원으로…탄소중립·물안보 새 해법 부상에너지데일리
+
+### 3. [한국공항공사, 2026 탄소중립 경연대회 기업·기관 부문 기후부 장관상 수상 - 경찰뉴스24](https://news.google.com/rss/articles/CBMicEFVX3lxTE50QjZfeXNEZTZab0M1bElIREQ2NDVVaWxhY2dtUFByUHcxSUtES0FxUHBpTUxmZUlaTjV5TC1DTlpWZXVydWhRVFJJb1VlZnQtTTM3SldRRG5jR2s4NE45S3dYalNfZThBRk4zQjNYZzc?oc=5)
+- **발행일:** Wed, 18 Nov 2026 13:58:00 GMT
+- **요약:** 한국공항공사, 2026 탄소중립 경연대회 기업·기관 부문 기후부 장관상 수상경찰뉴스24
+
+### 4. [한양대의료원, 2027학년도 ESG 경영 선포…지속가능 성장 다짐 - 의학신문](https://news.google.com/rss/articles/CBMiakFVX3lxTE5ac2tkZnRvZU5QcnFSbnF5eTNrUFVBaHpqZWFSVGk5NFZ0YzJaeEJ6b1c2Qi1DVU4xS1Q2aUJzMkNQWXAydy1wOGFtVktkampVbG5tdkxpMXVuYzBvRm5uLW02UGgxMXZLQ1E?oc=5)
+- **발행일:** Wed, 18 Nov 2026 05:53:21 GMT
+- **요약:** 한양대의료원, 2027학년도 ESG 경영 선포…지속가능 성장 다짐의학신문
+
+### 5. [청주시, 에너지 아낀 1만580가구에 탄소중립포인트 1억5천만원 - 연합뉴스](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBRNTdfSVdLM0lpM0pPN1RZRzkybmVPZnViRWJ5OEdRRUlaVkUwR3hUQnZmb1B0RW1TVFc0ak1fZS1lTWZiRzlpQUE5NUdKc0tOTlp3WjBTUEdkLTjSAWBBVV95cUxQV3ppNEFzdHVKa0tyQ2N0eWFieEZTc1hXeU9iUmpkaHEtV3lubUkwRUt3Q0dGQi1vVnBweDliWDgxSlBpbXJYTmVqT0EzSV9qS094VnU2ZnZEeGJoSjlLSkE?oc=5)
+- **발행일:** Wed, 18 Nov 2026 08:16:55 GMT
+- **요약:** 청주시, 에너지 아낀 1만580가구에 탄소중립포인트 1억5천만원연합뉴스
+
+---
+
 ## 📅 2026-11-18 ESG 및 규제 동향
 
 ### 1. [선진, 3년 연속 ESG 통합 A등급…사회 부문은 A+로 상승 - 돼지와사람](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5VczYwdl91Y3R2QVVEbjd1Ry13QWV4akcwUVZMX3pFaHAwWmdjWkdpSzcwT2JQWnJVREM1UnlrcWw2N0hrUFpIMDlNdVF0WkE3enY0SFZQUEJsejc0ZnFKU0xqNG4?oc=5)
