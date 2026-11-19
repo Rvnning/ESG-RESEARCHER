@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-20 ESG 및 규제 동향
+
+### 1. [환경·자동차산업 손잡고 탄소중립 실천문화 확산 - 에너지데일리](https://news.google.com/rss/articles/CBMickFVX3lxTFBzeE1OZXdqcDJDZ29yVXdsQTFzb2hEcnNVRmlVd2ItdW1ydGRHLWk2NmFfenVQeGgyc3RJaGJuTDFvOS14TWhBcW85X0tCSzNhRjdGYWVMV2duZGh2RzlOXy1xMTFXbVZVS0lQSTd2dEVsUQ?oc=5)
+- **발행일:** Thu, 19 Nov 2026 08:28:38 GMT
+- **요약:** 환경·자동차산업 손잡고 탄소중립 실천문화 확산에너지데일리
+
+### 2. [11월 2주차 해외 ESG 핫클립 - 임팩트온](https://news.google.com/rss/articles/CBMiakFVX3lxTE9jRTR1RGpJUjUyVFRhZzlkVDhyV21UeFZCLUpGY0NsYW5ySklwNkZsTWlWTk0yOGFZN3ZacXRNWmsyVmtxN3FqZnhtRWRDamVEZ1dLb3lObFBWRVRTSFNLdDJadDlBUXlnOXc?oc=5)
+- **발행일:** Thu, 19 Nov 2026 06:43:17 GMT
+- **요약:** 11월 2주차 해외 ESG 핫클립임팩트온
+
+### 3. [코레일, ESG 평가 최고등급 ‘AA’ 획득…종합점수 97.69점 기록 - 영종뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTFBiTnQxS2Rtb0dXb2Njb204QmY0S1djWGVDVk9UMjFkVC1NOXlFQm56OVBvNU8xR0p5TzlqTjdHVW9BN3prMHJOUTBJM1A2UjE5UGRkWDFMQmUyZDZON2xwUi1VMFJaSUlHX2V0Sw?oc=5)
+- **발행일:** Thu, 19 Nov 2026 14:41:39 GMT
+- **요약:** 코레일, ESG 평가 최고등급 ‘AA’ 획득…종합점수 97.69점 기록영종뉴스
+
+### 4. [한전KDN ESG 10주년, 15개 프로그램으로 지역 상생 확대 - 에너지안전신문](https://news.google.com/rss/articles/CBMiZEFVX3lxTE1oR2sxT0xQNUZaUVlmUDVPSkVKa3N5VENvUmVCcjlvRldkcnVzeS1TOVZrNGJtaUJlVi1uYi12MDF0UDM1ZU4yN3ZyaE11RUNvR3ZtNk5TT0ZrSEc0eUVGNnBQSEE?oc=5)
+- **발행일:** Thu, 19 Nov 2026 08:43:50 GMT
+- **요약:** 한전KDN ESG 10주년, 15개 프로그램으로 지역 상생 확대에너지안전신문
+
+### 5. [광주기후에너지진흥원, 학교 탄소중립 길잡이 '특별한 학교의 탄소중립 실천생활' 발간 - 전자신문](https://news.google.com/rss/articles/CBMiTkFVX3lxTE55czJEZXl5NkZMLTJfcFhfN1pXNmJMYmtVc1pta0VnbmViQnNJTGM3cUREVWZnbWZXMk95eVJxM1pmYXpoV2NsWEhCMmQ2dw?oc=5)
+- **발행일:** Thu, 19 Nov 2026 07:56:02 GMT
+- **요약:** 광주기후에너지진흥원, 학교 탄소중립 길잡이 '특별한 학교의 탄소중립 실천생활' 발간전자신문
+
+---
+
 ## 📅 2026-11-19 ESG 및 규제 동향
 
 ### 1. [환자 안전부터 친환경 경영까지…병원에도 'ESG'가 필요한 이유 - 헬스경향](https://news.google.com/rss/articles/CBMia0FVX3lxTFBpQlJIRU9MNGlHc2ZObmhJTTIwWU1ZaU1WUXFvSlVfTzJ0X0J6TURtcnBtMnNlRkJxa0xnS0hkZUdSNEJQQU1La2dCZlhvT1F6X2lCRk1oX0Z6MGZEdlQteUhsVjNjTG5uVjQ4?oc=5)
