@@ -2,6 +2,30 @@
 
 ## 📅 2026-11-20 ESG 및 규제 동향
 
+### 1. [상주시, 2026 탄소중립 경연대회 장관상 수상 - 데일리대구경북뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GcjRJRFJ5ZGxLLXhBQmxhS252MERaUXNCSlNLOVM5QjEzQVRQUl9mcHVlcVhkMDgwSnd6MkdpQmN1Tk1UR1I2SFhCSHh2c0dfWE1tS28yV0F5X3ZmWFNYbkxkblM5UQ?oc=5)
+- **발행일:** Fri, 20 Nov 2026 07:06:14 GMT
+- **요약:** 상주시, 2026 탄소중립 경연대회 장관상 수상데일리대구경북뉴스
+
+### 2. [남서울대, 탄소중립 실천 우수기관 선정… 기후에너지환경부 감사패 - 천지일보](https://news.google.com/rss/articles/CBMiakFVX3lxTE5DM3Bva2pTWm5vVUlvcEo0am9fR2JTMUJNZHlGTUV2WmpKSzA5VlBoWk12ZTJFbTh4VnhYMC1UT0JBUXZmSHE2TjhnX1NocVFwbkNvd3h6ejl5U2ZBNFJPREhxVDRDenZETEE?oc=5)
+- **발행일:** Fri, 20 Nov 2026 14:23:31 GMT
+- **요약:** 남서울대, 탄소중립 실천 우수기관 선정… 기후에너지환경부 감사패천지일보
+
+### 3. [한진, 4년 연속 ESG 통합 A등급…사회·지배구조 등급 상향 - 물류신문](https://news.google.com/rss/articles/CBMia0FVX3lxTE9DNkNqZHlTVGpSSm5xTDJRUmhaLWdtRUZ4S01UbWk3a2Z6cFRxMzloTHc4SFBtLWNtbE5wT0E2UlIxU2lkVFNkOE8wczg3MEJzaGFzOWUxd2F1N2c2Z0RGUnBPRklBNTFOWDJ3?oc=5)
+- **발행일:** Fri, 20 Nov 2026 06:45:24 GMT
+- **요약:** 한진, 4년 연속 ESG 통합 A등급…사회·지배구조 등급 상향물류신문
+
+### 4. [고려아연, ESG 평가서 최고등급…릴레이 성과 - 비즈워치](https://news.google.com/rss/articles/CBMibEFVX3lxTE93U2JHcGxaV0FxZHljTngyaVJ0TWxlYUhBc1ZxMFlNbUpJSmlsd05JSTVwdjFIQzkwWDdsU09ZOW52bmF1UGFFZW5rTkhSRGdPZ2I3YXVTS1BQcTNKbVhhTzhJR3NnVkozQWNDZw?oc=5)
+- **발행일:** Fri, 20 Nov 2026 06:26:03 GMT
+- **요약:** 고려아연, ESG 평가서 최고등급…릴레이 성과비즈워치
+
+### 5. [고려아연, 아주기업경영연구소 ESG 평가 최고등급 ‘AAA’ 달성 - 철강금속신문](https://news.google.com/rss/articles/CBMiakFVX3lxTE9FbkhVNC1FYkotWmZhTTBsWVR1WGpycjB3dlBwX1J6UGU4aEctQWlfc0lXa2QtSXlaOFRvbzZFZURMWDkxZmg1UkJYM1NmdjZLNmZzNnRISmgtTUVrSk80M0N5cm15Z2Y4UFE?oc=5)
+- **발행일:** Fri, 20 Nov 2026 06:37:42 GMT
+- **요약:** 고려아연, 아주기업경영연구소 ESG 평가 최고등급 ‘AAA’ 달성철강금속신문
+
+---
+
+## 📅 2026-11-20 ESG 및 규제 동향
+
 ### 1. [환경·자동차산업 손잡고 탄소중립 실천문화 확산 - 에너지데일리](https://news.google.com/rss/articles/CBMickFVX3lxTFBzeE1OZXdqcDJDZ29yVXdsQTFzb2hEcnNVRmlVd2ItdW1ydGRHLWk2NmFfenVQeGgyc3RJaGJuTDFvOS14TWhBcW85X0tCSzNhRjdGYWVMV2duZGh2RzlOXy1xMTFXbVZVS0lQSTd2dEVsUQ?oc=5)
 - **발행일:** Thu, 19 Nov 2026 08:28:38 GMT
 - **요약:** 환경·자동차산업 손잡고 탄소중립 실천문화 확산에너지데일리
