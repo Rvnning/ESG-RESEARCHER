@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-21 ESG 및 규제 동향
+
+### 1. ["올해 국내 ESG채권 발행 16% 증가…내년엔 일반기업 참여 확대가 관건" - 연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE4weTRaczEyNERmMjZyNlU1Z1ZrRHd2OXp2SW1KYWVONE1nRVQ2UGhFdTZwS0RkOXIxNmhyTlI2M2loWFM2VTJsSUEwcW1OMVQ4ZU1rM3BCNHVlNFFabUxST0g0NUF3ZnFRb2VvMjFIMW4?oc=5)
+- **발행일:** Sat, 21 Nov 2026 00:20:01 GMT
+- **요약:** "올해 국내 ESG채권 발행 16% 증가…내년엔 일반기업 참여 확대가 관건"연합인포맥스
+
+### 2. [부안군 지속가능발전협의회, 부안의 미래를 모색하는 탄소중립 정책간담회 개최 - 전북도민일보](https://news.google.com/rss/articles/CBMiakFVX3lxTFAtQkdNVnZPVFNpNjEzNDhFc0FhMkRyQlJXbzA3OVZKeGxFSUhnYmU4bjRFZnFLaktWSEFqT1d0c1NFZ2R5Ni1HTjllTV80Y1EtcDRVbGdKMGdpUm9obmd4WlBXZnB2UWp5d0E?oc=5)
+- **발행일:** Sat, 21 Nov 2026 10:49:00 GMT
+- **요약:** 부안군 지속가능발전협의회, 부안의 미래를 모색하는 탄소중립 정책간담회 개최전북도민일보
+
+### 3. [“버려질 PC 1,286대, 아이들의 배움으로 되살린다”... 한국특허전략개발원, 디지털 ESG 나눔 실천 - 특허뉴스](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9VcjVuWGY3MjRBTHExcEVnZHVpS2ZIRTZ5RmJCd3lNWWJud2lESlhGcmVLQkdMcFZybUd2enJUa0ptcUVzNTZUSw?oc=5)
+- **발행일:** Sat, 21 Nov 2026 07:43:00 GMT
+- **요약:** “버려질 PC 1,286대, 아이들의 배움으로 되살린다”... 한국특허전략개발원, 디지털 ESG 나눔 실천특허뉴스
+
+### 4. [BNK금융, 부·울·경 해양생태계 보전 봉사 - 스트레이트뉴스](https://news.google.com/rss/articles/CBMic0FVX3lxTE5WNFVmNmFTYktJbGJVd0Z2cDNSbEhNWE43RVJpSnVqVTNlcHdyVjNhMGdKWjhKUzVqZnJKYlJUWkgwM0tfUEtZWHlkR1dIaFItU2psUDBDUDFjWkoweGR1WmZYTzVZV291MkRrLU1JdDcyNEXSAXdBVV95cUxPRDJFRUxmRFdxcnE1eG11TjBDNkJBYXIwOHFpcUxkOEZWWVJFUzAySGNRMFFqRTByX3JVa19qT3NOS0pBRlotRnZObTVRSE9zQnI4TGNXVEI4akxmenhfcXlJU1I2SmU2THJ5LU41RHVIb21KQkhjcw?oc=5)
+- **발행일:** Sat, 21 Nov 2026 08:14:41 GMT
+- **요약:** BNK금융, 부·울·경 해양생태계 보전 봉사스트레이트뉴스
+
+### 5. [DL이앤씨, ‘한숲 파트너스 데이’ 개최…협력사와 ESG 상생경영 강화 - 건설이코노미뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9TZ2ZsWDVZTmd3Q1Y0dXBRWHJzZHFTcmtiRTR5Rl9fYWJSRjZlMmdQV05LSGI2T1Fzcm1Pby1aa1VsWkpmZmtlVFZtWjNSQXRNN3ZRZnI5OUdpR1NPSTdwOEZSd01Odw?oc=5)
+- **발행일:** Sat, 21 Nov 2026 07:53:14 GMT
+- **요약:** DL이앤씨, ‘한숲 파트너스 데이’ 개최…협력사와 ESG 상생경영 강화건설이코노미뉴스
+
+---
+
 ## 📅 2026-11-20 ESG 및 규제 동향
 
 ### 1. [상주시, 2026 탄소중립 경연대회 장관상 수상 - 데일리대구경북뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9GcjRJRFJ5ZGxLLXhBQmxhS252MERaUXNCSlNLOVM5QjEzQVRQUl9mcHVlcVhkMDgwSnd6MkdpQmN1Tk1UR1I2SFhCSHh2c0dfWE1tS28yV0F5X3ZmWFNYbkxkblM5UQ?oc=5)
