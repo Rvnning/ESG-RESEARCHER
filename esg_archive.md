@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-22 ESG 및 규제 동향
+
+### 1. [강원도탄소중립지원센터, 탄소중립 퀴즈대회 개최 - 강원일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uQXBQSHphNUdKdi1jREF5RjJjaTdEQW04aEd5YW1xMHQzanVPRy15ZFRpZDNaNFVKVElZNEwyM3Y0RjdqVWhqeFNoX3plaXExZFVKaTFVazVuN0k?oc=5)
+- **발행일:** Sun, 22 Nov 2026 12:00:00 GMT
+- **요약:** 강원도탄소중립지원센터, 탄소중립 퀴즈대회 개최강원일보
+
+### 2. [인천시 '2045 탄소중립' 차질…협력체 구성 목소리 - 인천일보](https://news.google.com/rss/articles/CBMicEFVX3lxTFB5XzY5VVFOYlQ4MnFmd21Ebm5WUGFvTHVRSG9XNldPMzBIdGd3Sy1uOGhKT2c3MGlXU0sxeXlyR3Q2MzQzZWZlMDRFalc5dTIyMDNGd3NsNU14QWZmMUViS3dmTU1pQkY3WTRzbGpaRnA?oc=5)
+- **발행일:** Sun, 22 Nov 2026 08:57:00 GMT
+- **요약:** 인천시 '2045 탄소중립' 차질…협력체 구성 목소리인천일보
+
+### 3. ["준비시간 부족" vs "투자정보 필요"… ESG 의무화 진통 - 머니투데이 - 머니투데이](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1mZUJJdDBIV3RldU5LNjg1WkRiTC1hUThZWkV2RzJjX28tZmVZc1Z2VjJVX1NGcFVuV2lWelQxQjZBRHc0ZFJaa1R3Uk1jQzV6M3I3NXBfQVV0cTF2RDlHeXBwX3FTc1J50gFuQVVfeXFMUE51MXZmdEpNY0lNM1c5X0xnWWxHcHc3NUtldDNoZWNxOHptaDJnWUZqZ3NXdHVGeUlaajhuVVpkeUx5bzY2YXpDemlUcS1jdTg4bE1HbXZkVnh1cXc2dVRlR2NmQ0ZwVGgtWXB4Umc?oc=5)
+- **발행일:** Sun, 22 Nov 2026 00:10:00 GMT
+- **요약:** "준비시간 부족" vs "투자정보 필요"… ESG 의무화 진통 - 머니투데이머니투데이
+
+### 4. [KOTRA가 제시하는 수출기업 ESG 생존 전략 - 신동아](https://news.google.com/rss/articles/CBMiaEFVX3lxTE1PS1pjRENicnFCbzVUelU1T2RjYWR3OXg1aVdHVG9OSU1rV1BaeXFBX3BZZkRZUk8xVW5MRVhOZkdHd3NuLWQwSWlBajEzSlh6T2huLUNFUndNN2kyZ1dCeS1LTDNZTnI2?oc=5)
+- **발행일:** Sun, 22 Nov 2026 04:00:02 GMT
+- **요약:** KOTRA가 제시하는 수출기업 ESG 생존 전략신동아
+
+### 5. [거제시, 탄소중립포인트제 최우수상 - 경남매일](https://news.google.com/rss/articles/CBMiakFVX3lxTE5mV3JnMDk5S0pkNHVLSFlVQ2c0cUVSNUtyczJUT3hhVnlCTkRjVWs2QTBMMmk1WmZ4RzhrTWVqVEFVQUp4Q3NsYVM0NjNnbVowWDlYYWhMX2NHVjBYWTcxSlhQbDlhdDZrVmc?oc=5)
+- **발행일:** Sun, 22 Nov 2026 12:27:45 GMT
+- **요약:** 거제시, 탄소중립포인트제 최우수상경남매일
+
+---
+
 ## 📅 2026-11-21 ESG 및 규제 동향
 
 ### 1. ["올해 국내 ESG채권 발행 16% 증가…내년엔 일반기업 참여 확대가 관건" - 연합인포맥스](https://news.google.com/rss/articles/CBMicEFVX3lxTE4weTRaczEyNERmMjZyNlU1Z1ZrRHd2OXp2SW1KYWVONE1nRVQ2UGhFdTZwS0RkOXIxNmhyTlI2M2loWFM2VTJsSUEwcW1OMVQ4ZU1rM3BCNHVlNFFabUxST0g0NUF3ZnFRb2VvMjFIMW4?oc=5)
