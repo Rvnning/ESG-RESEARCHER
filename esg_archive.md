@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-24 ESG 및 규제 동향
+
+### 1. [ESG 공시 의무화 코앞으로…기업별 데이터 관리 ‘제각각’ - 기후에너지데이터뱅크](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tMXlWRVBfMUpGeEtzWDZ3RjNjV2VRd2lyRThnVzRtcFlFNW92blhGZFNMSXN1Mk1icDZLVzlQWmIyblBJNDVCa0dkalVlMFQzblo5UF9NelBIZ0VwcEE?oc=5)
+- **발행일:** Mon, 23 Nov 2026 09:10:02 GMT
+- **요약:** ESG 공시 의무화 코앞으로…기업별 데이터 관리 ‘제각각’기후에너지데이터뱅크
+
+### 2. [한양대구리병원, ESG 경영 선포…3대 전략목표 수립 - 병원신문](https://news.google.com/rss/articles/CBMiakFVX3lxTE12bWVOWVZ4YU5NY2c4eXk2dDhfMHhQWUlIck1vTm1UZTc5NFJBQlNUY3RINEl0Y2hLTVRSYmxwdTc2SzV4OW53LTc1Ym9ta00tYVhxNTZYUFZFcDRkSXl1VEkzRVJiam5nSlE?oc=5)
+- **발행일:** Mon, 23 Nov 2026 10:23:14 GMT
+- **요약:** 한양대구리병원, ESG 경영 선포…3대 전략목표 수립병원신문
+
+### 3. [CEO 보상·후계자 육성…iM금융그룹의 ESG 경영 방식 - 더나은미래](https://news.google.com/rss/articles/CBMiUkFVX3lxTE4wUVlERkNpX2ZRLTVDVUthbXc1NmRJcnZhOHhNQ2xaVDB2NmpNV1d4ZTV0aDJFcDR3QW1jbmp0MEszRi1yeGlyZVNDeHNTYlVYeVE?oc=5)
+- **발행일:** Mon, 23 Nov 2026 08:51:00 GMT
+- **요약:** CEO 보상·후계자 육성…iM금융그룹의 ESG 경영 방식더나은미래
+
+### 4. [한진, 4년 연속 ESG평가 ‘A등급’ 획득 - 콜드체인뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTE1NelhmZ05SU1UwNzljVkR5eFFhWklGTDFNS19QR1pjMmZrWC1ycW5nbXBzTnJKc1FhWEk5eEQzNm9XaVk5RTBoTjhkRmNDRGNMMDRuMVJTRFVKU2MySU41OHF6UUV1dw?oc=5)
+- **발행일:** Mon, 23 Nov 2026 14:08:38 GMT
+- **요약:** 한진, 4년 연속 ESG평가 ‘A등급’ 획득콜드체인뉴스
+
+### 5. [광양시, 탄소중립 실천가와 함께하는 소통·힐링 워크숍 개최 - 호남타임즈](https://news.google.com/rss/articles/CBMibEFVX3lxTE92eWdjYV95aXI5U2I2eTVhNU81anZQNHh6U3F3V2YxcGl5WE5zZ19nVGVTNk5XOVo5Qm51SVpoQ051QVZ0Ni00RDg0enh1NE9sZWczRHd2ZnppbEwyTTVFQzFqTGJhOXdQVzlIeg?oc=5)
+- **발행일:** Mon, 23 Nov 2026 15:10:18 GMT
+- **요약:** 광양시, 탄소중립 실천가와 함께하는 소통·힐링 워크숍 개최호남타임즈
+
+---
+
 ## 📅 2026-11-22 ESG 및 규제 동향
 
 ### 1. [강원도탄소중립지원센터, 탄소중립 퀴즈대회 개최 - 강원일보](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1uQXBQSHphNUdKdi1jREF5RjJjaTdEQW04aEd5YW1xMHQzanVPRy15ZFRpZDNaNFVKVElZNEwyM3Y0RjdqVWhqeFNoX3plaXExZFVKaTFVazVuN0k?oc=5)
