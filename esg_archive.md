@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-25 ESG 및 규제 동향
+
+### 1. [하우스에서 화석연료 대신 태양광으로 ‘RE100 감귤’ 키운다 - 경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lQ1NucDh5UUk2c3FacG8xRHdLTnFELWttOUdzR2pzcEtZYXlPYVdOYUNjVnBYZlZXTzZrNGtRbW5ydEVRVW1sX2hYTEZqVEpNWDFHOVRBZV9Rdw?oc=5)
+- **발행일:** Tue, 24 Nov 2026 11:56:00 GMT
+- **요약:** 하우스에서 화석연료 대신 태양광으로 ‘RE100 감귤’ 키운다경향신문
+
+### 2. [울산항만공사, 청정에너지 전환 중심 ESG 경영전략 수립* - 해사신문](https://news.google.com/rss/articles/CBMia0FVX3lxTE14UWdmWTc1RVNwa0xfX2FqUHZObGNadWFkWG1JcmlLeUtjbGYxZXFuOXlpcTBSWlNPa2prLUtVTFF4bW8yQmxvaUNtMGpZMkM2RFg5Z0lHdUI4M1lzMFJYVzBfOWRFT3R4RGtF?oc=5)
+- **발행일:** Tue, 24 Nov 2026 05:51:37 GMT
+- **요약:** 울산항만공사, 청정에너지 전환 중심 ESG 경영전략 수립*해사신문
+
+### 3. [[ESG 리더스] 황병우 iM금융 회장, ESG 경영 내재화 '승부수' - 녹색경제신문](https://news.google.com/rss/articles/CBMiaEFVX3lxTFBFbEFraXhiWF9kQVcxVFFmSVctdU9YUVdmOXcwVlJkckFUUk10V05oa1Zha0NYNF9xM2JnUTdoNE0wQ0lLX29KLUR3eDl6Ynk5c01KTWczdkZwZ0ZEYUNwcGdBRC1RSnVQ?oc=5)
+- **발행일:** Tue, 24 Nov 2026 15:00:00 GMT
+- **요약:** [ESG 리더스] 황병우 iM금융 회장, ESG 경영 내재화 '승부수'녹색경제신문
+
+### 4. [울산항만공사, 에너지 패러다임 변화 대응 ESG 경영전략 재편 - 울산일보](https://news.google.com/rss/articles/CBMibkFVX3lxTE8wT0NOTk9uWDhBWmpJbGUxSUFuaVllYy1Od3ItOXNVYWEzdmRSbnpUZ3VYV3NUV2gxbE5SRDQ0d2tKVFozOHhoempxdnFHdGZLQ1pVUnR6VVlmQUkyemUzNE5PdVRqNThMcEg2Vk93?oc=5)
+- **발행일:** Tue, 24 Nov 2026 15:02:23 GMT
+- **요약:** 울산항만공사, 에너지 패러다임 변화 대응 ESG 경영전략 재편울산일보
+
+### 5. [농업생명과학대학, 광주시 공동 포럼, 태화산학술림 탄소중립 실증 및 산림복지 사업 고도화 - 보도자료 - 뉴스 - 서울대 소식 - 서울대학교](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5hTFFtVlhhcV93Vm0ySTFBZlVwdlhzMEVxRFZkVlBjSWFScE5mcW5BYm1tTXhjSHZmRUdRUERyOXB3dE1DaG5hN1E1Wk0xV2pHMlBoY1RfQzJiVmEzVjA3WncxWQ?oc=5)
+- **발행일:** Tue, 24 Nov 2026 10:58:35 GMT
+- **요약:** 농업생명과학대학, 광주시 공동 포럼, 태화산학술림 탄소중립 실증 및 산림복지 사업 고도화 - 보도자료 - 뉴스 - 서울대 소식서울대학교
+
+---
+
 ## 📅 2026-11-24 ESG 및 규제 동향
 
 ### 1. [ESG 공시 의무화 코앞으로…기업별 데이터 관리 ‘제각각’ - 기후에너지데이터뱅크](https://news.google.com/rss/articles/CBMiXkFVX3lxTE4tMXlWRVBfMUpGeEtzWDZ3RjNjV2VRd2lyRThnVzRtcFlFNW92blhGZFNMSXN1Mk1icDZLVzlQWmIyblBJNDVCa0dkalVlMFQzblo5UF9NelBIZ0VwcEE?oc=5)
