@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-26 ESG 및 규제 동향
+
+### 1. [KCC, 지속가능성보고서상 12년 연속 영예…ESG 통합등급도 ‘A’로 껑충 - 기후에너지데이터뱅크](https://news.google.com/rss/articles/CBMiXkFVX3lxTE02dldiOFJrRWd0TXZ1NFYxZXp2bUpRVzI0QkJ3WEpsNmYtSHJXZ29BcFNzZHQtbElWTXRPNXdmcDA4UU5uaG1BVEs4cTM5M2pDVWcta1RQNmRsWno0b3c?oc=5)
+- **발행일:** Wed, 25 Nov 2026 09:10:02 GMT
+- **요약:** KCC, 지속가능성보고서상 12년 연속 영예…ESG 통합등급도 ‘A’로 껑충기후에너지데이터뱅크
+
+### 2. [인천연구원 “탄소중립 선도도시 조성 위해 다각적 시민참여 필요” - 인천일보](https://news.google.com/rss/articles/CBMicEFVX3lxTE5HTUstbmF1MVBnXzJTeEVsMmNQRUZ6Y2lPRmVQd0VTR3JPOGFlWVFUcWJCRFJtWTFXYWRWaFY5aUJlbjlLSWVqYWRablBSUjN6dmhEeW5fNUlnc0xaZzJaTE1qRGxwT19CRUJUSHZyV04?oc=5)
+- **발행일:** Wed, 25 Nov 2026 10:13:01 GMT
+- **요약:** 인천연구원 “탄소중립 선도도시 조성 위해 다각적 시민참여 필요”인천일보
+
+### 3. [제주에너지공사, RE100 확산 성과 '지방자치 혁신대상' - 에너지신문](https://news.google.com/rss/articles/CBMickFVX3lxTE5fUVZua0JveTFKQm1mcU9RYXExTEhoOFpZd3dHMDRkN0lvUWlodUFGb1QxWW9KX1dnaHF3ckVSQk5BUURwZmlJV24zcnk1Y2FHaTNBdUpxUV9WamVRc2xUZ2xtUWo3cmwzdlpibjdSRnNPdw?oc=5)
+- **발행일:** Wed, 25 Nov 2026 08:23:01 GMT
+- **요약:** 제주에너지공사, RE100 확산 성과 '지방자치 혁신대상'에너지신문
+
+### 4. [인천연구원, '인천 2045년 탄소중립' 시민 참여 확대 전략 '관건' - 인천투데이](https://news.google.com/rss/articles/CBMicEFVX3lxTE9xWUlqRHhIWVd0RWFvdjZ5TU96OHppYVQzMzN4dDZKYVc2M0N3SHBWQ2h6NjRtd1FaanRWRzg4RFNtMlBBcGtoTEJ1dFNVaHIwLWtOTDM0SEk1b0dRMFdSdzRGVkVXMXRlRGs4cy1BV2g?oc=5)
+- **발행일:** Wed, 25 Nov 2026 04:05:45 GMT
+- **요약:** 인천연구원, '인천 2045년 탄소중립' 시민 참여 확대 전략 '관건'인천투데이
+
+### 5. [DL, 국내외 ESG 평가서 A등급…지속가능 성장 기반 강화 - 경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTFBySU11b21xdC15eEdCanVOcjloWXY5YW5hamZzMzh1Tl96UzVtZGtsSWp4VmpzRV9qSEtTQ0NCWFVqdW5JS0V0OXAtSWR6YUQ1a21xY1ZtT2E4Z9IBX0FVX3lxTFBFc1phRVIzMG90WEdJcWUxcTl3akwxbHgyaFZyRFdRcmxWblA4SVJiNTdWSG1rUUtMT1NnRFVDUC0xTTl0SUhYajRFd2VsbmR5Q2xvbndYWTJhbjZGb3k4?oc=5)
+- **발행일:** Wed, 25 Nov 2026 11:04:00 GMT
+- **요약:** DL, 국내외 ESG 평가서 A등급…지속가능 성장 기반 강화경향신문
+
+---
+
 ## 📅 2026-11-25 ESG 및 규제 동향
 
 ### 1. [하우스에서 화석연료 대신 태양광으로 ‘RE100 감귤’ 키운다 - 경향신문](https://news.google.com/rss/articles/CBMiWkFVX3lxTE5lQ1NucDh5UUk2c3FacG8xRHdLTnFELWttOUdzR2pzcEtZYXlPYVdOYUNjVnBYZlZXTzZrNGtRbW5ydEVRVW1sX2hYTEZqVEpNWDFHOVRBZV9Rdw?oc=5)
