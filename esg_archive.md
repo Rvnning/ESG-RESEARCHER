@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-27 ESG 및 규제 동향
+
+### 1. [5극 3특 균형성장에 탄소중립·환경정책 접목 - 환경일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdU1FblY1alJMSWd5ZW5sSDJuYkhsOWplQzRmTVBMb29NWnRMTUVDd2hOVndMTlJPbXZSeG0yalIzbmhXUTZjbDMwNnk5dG1qeGttbWZKMnY1ZkJxQjJDVmltR2xZRFNr?oc=5)
+- **발행일:** Thu, 26 Nov 2026 11:01:46 GMT
+- **요약:** 5극 3특 균형성장에 탄소중립·환경정책 접목환경일보
+
+### 2. [㈜경농·㈜조비, ESG 경영 역량 대외적 공인받아 - 영농자재신문](https://news.google.com/rss/articles/CBMiXEFVX3lxTE1ibnFDdVRLSmtnQnJicVBmcGhFdFdqb3puby1LaGwwTEtBMUxaUEgweGhnelFtcXNsc2VncGU2c1NCdXFPU3VoSHI2ZjVPZzkxUFBsYTNCOE9MWWZY?oc=5)
+- **발행일:** Thu, 26 Nov 2026 08:18:27 GMT
+- **요약:** ㈜경농·㈜조비, ESG 경영 역량 대외적 공인받아영농자재신문
+
+### 3. ["'녹색문명' 새 길 연다"...2035 제주 탄소중립 비전 선포식 - 헤드라인제주](https://news.google.com/rss/articles/CBMic0FVX3lxTE1QaHpJYko2NV95N0g0SGxuVS1tNDFfTXVqaGNHVTlVY2RkckFFR0ZTOTdQTk1JRnZ5a2pFUGJtalhmRkZCQUNzRldpUmp3MU9McS02WXZuLTI0NFFnVW9rdWZYbU13Z0tMaUJYRlRWUUdMQ2M?oc=5)
+- **발행일:** Thu, 26 Nov 2026 06:20:05 GMT
+- **요약:** "'녹색문명' 새 길 연다"...2035 제주 탄소중립 비전 선포식헤드라인제주
+
+### 4. [【위클리 ESG 행사】 12월 1주차 - 임팩트온](https://news.google.com/rss/articles/CBMiakFVX3lxTFBRU2xUQ0sya1dVWEVTVVhFazB6RmhhN3hkOGkyclJJSUR2UFNvRzNob1E5Z0gtQ21PYWZDWlF4NmZEQjJlSmhRcFFpamdGd1F5UEVxb0FPTzI0YVc4RmVtdC15bmpGbVZ0WUE?oc=5)
+- **발행일:** Thu, 26 Nov 2026 07:28:48 GMT
+- **요약:** 【위클리 ESG 행사】 12월 1주차임팩트온
+
+### 5. [기아, 中 기업 사회적 책임 평가 1위…ESG 경영 결실 - 더구루](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9oV1d1dlNQTnA4MnVibnRfQ1NXa2FVNGZPOHRkejc0VW4zdkx6VHg1eWlVb1ZYQ0FtN1pBQWVlMDZHem4tMzRGUTFEQ0pIeXhOMk5odTBlekVteW9GeUc4bWdINA?oc=5)
+- **발행일:** Thu, 26 Nov 2026 05:43:48 GMT
+- **요약:** 기아, 中 기업 사회적 책임 평가 1위…ESG 경영 결실더구루
+
+---
+
 ## 📅 2026-11-26 ESG 및 규제 동향
 
 ### 1. [KCC, 지속가능성보고서상 12년 연속 영예…ESG 통합등급도 ‘A’로 껑충 - 기후에너지데이터뱅크](https://news.google.com/rss/articles/CBMiXkFVX3lxTE02dldiOFJrRWd0TXZ1NFYxZXp2bUpRVzI0QkJ3WEpsNmYtSHJXZ29BcFNzZHQtbElWTXRPNXdmcDA4UU5uaG1BVEs4cTM5M2pDVWcta1RQNmRsWno0b3c?oc=5)
