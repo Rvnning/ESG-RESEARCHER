@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-28 ESG 및 규제 동향
+
+### 1. [환경산업기술원, 제주와 탄소중립 실현과 녹색경제 활성화 맞손 - 환경일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8walliUG12T0tMandMb29INlBPRWpNbDlmQ2JFaC1hX1NTbXVMY3dNdzVKTjdjRGZtN1RmSnhWcktER0JYSkpUam44RjVBN1dkcW5vRUhvLVJzODZQb0VjMWNicVFrVGxQ?oc=5)
+- **발행일:** Fri, 27 Nov 2026 08:15:44 GMT
+- **요약:** 환경산업기술원, 제주와 탄소중립 실현과 녹색경제 활성화 맞손환경일보
+
+### 2. [[ESG] 재생에너지, 2027년 RPS 단계적 폐지되고 계약시장 신설돼 - 대한데일리](https://news.google.com/rss/articles/CBMia0FVX3lxTE1NSnFQV2VUUXpOdFduSnpkajdhTEFSTFJWYW50WHlRc0xKRGhXSHd4dlp4SFlWa0o1TlZ0QnZkbndTMGY4T0RkdnNZMGpjWHBpcWl5bVNTdlhnTFJmS0kyeVlJT3hwcmxvVjhJ?oc=5)
+- **발행일:** Fri, 27 Nov 2026 09:04:00 GMT
+- **요약:** [ESG] 재생에너지, 2027년 RPS 단계적 폐지되고 계약시장 신설돼대한데일리
+
+### 3. [환경산업기술원-제주도, 탄소중립·녹색경제 활성화 맞손 - 전기신문](https://news.google.com/rss/articles/CBMibEFVX3lxTFBJbzhCZHltX0J2ZmNucnBENmxoWXlBdlVYRE5ITXFmTlJ3eF9YbTNFWG8yY0cyNkhoZWZYMGNNbHVOR1B0QkZjdkVYTEJfUmhVZXJPMXY0UG11QzZfQTMwWjlFQV9VMFNLcjJxedIBcEFVX3lxTFBNcl9WdllPaWxPVGhPc1RGcU8ta3RNQTNWdUF6S3RybmtGc0QxaWdaS0hPYjNVbkZ5eTFvUE5CNDFZNGtqamRxYmxHbVlBRENuYWlMR2VTQzFCZnlwSzZDUVpDSDVla25NQ01TTkFEZHc?oc=5)
+- **발행일:** Fri, 27 Nov 2026 05:40:42 GMT
+- **요약:** 환경산업기술원-제주도, 탄소중립·녹색경제 활성화 맞손전기신문
+
+### 4. [ESG 경영자 과정 6기 수료식 - 안산뉴스](https://news.google.com/rss/articles/CBMibEFVX3lxTFBudy01emRoZVpwRF9ZYnZaNkRLUEwxdkZGN2x6TTRwU1UtZ0pwY1M0S3Q1SDNzVXplNnJBWi13RWJ0eUY2dnpmMjB2ZDVfNy1lQ214cGNtVHo2dXU0M1hjY3JhaEZWX1Nad1VoOA?oc=5)
+- **발행일:** Fri, 27 Nov 2026 07:41:07 GMT
+- **요약:** ESG 경영자 과정 6기 수료식안산뉴스
+
+### 5. [【이민의 공급망 전환 전략】2027년 탄소중립, 목표는 남고 청구서가 바뀐다 - 임팩트온](https://news.google.com/rss/articles/CBMiakFVX3lxTFBJVHRTME1Fd29OZmg5NldoMTU1b014TzhzSl8wNzJfOWRMSGRDVUxHWnRNNmFPcW0wT0d6WGlHSWFUWDBhaDlPVGZmVVoyOUcybXJMUkdEaG51OEJrOGNFVnVvVXlsY1B5ckE?oc=5)
+- **발행일:** Fri, 27 Nov 2026 07:41:35 GMT
+- **요약:** 【이민의 공급망 전환 전략】2027년 탄소중립, 목표는 남고 청구서가 바뀐다임팩트온
+
+---
+
 ## 📅 2026-11-27 ESG 및 규제 동향
 
 ### 1. [5극 3특 균형성장에 탄소중립·환경정책 접목 - 환경일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTE9mdU1FblY1alJMSWd5ZW5sSDJuYkhsOWplQzRmTVBMb29NWnRMTUVDd2hOVndMTlJPbXZSeG0yalIzbmhXUTZjbDMwNnk5dG1qeGttbWZKMnY1ZkJxQjJDVmltR2xZRFNr?oc=5)
