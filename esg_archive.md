@@ -1,5 +1,29 @@
 # 🌱 ESG 및 규제 일일 아카이브
 
+## 📅 2026-11-29 ESG 및 규제 동향
+
+### 1. [한국부동산원, 민관 협력으로 건설 현장 탄소중립 실현 앞장 - 건설이코노미뉴스](https://news.google.com/rss/articles/CBMiZkFVX3lxTFBhVTdVaUJkdFk3U1VNMVplaHJhQXp2M09uRFFOWW5oVm5UWHV2YXlWRjB0aXpKbW1BMDgwWGJiSmd4Z3lEQnJRclFOV3NZaHdaUTN5YVF5WFJCQl9aLU1aQjRZZmEtQQ?oc=5)
+- **발행일:** Sat, 28 Nov 2026 11:07:37 GMT
+- **요약:** 한국부동산원, 민관 협력으로 건설 현장 탄소중립 실현 앞장건설이코노미뉴스
+
+### 2. [군산시, 공공부문 탄소중립 실천 위한 부서별 에너지지킴이 교육 실시 - 한국방송뉴스](https://news.google.com/rss/articles/CBMiYEFVX3lxTFBmVmxTS2NKZVRUSnNZU0kxUVBPckEtSGJnX1lSdEhmUWNGc3YwQW9SYmE1dkFBbFg3VGhtOWhFdjJ4VEpkTDRfM01CZlkySmtFUm1iSXo2TVhSOFJ3V2JISQ?oc=5)
+- **발행일:** Sat, 28 Nov 2026 10:12:16 GMT
+- **요약:** 군산시, 공공부문 탄소중립 실천 위한 부서별 에너지지킴이 교육 실시한국방송뉴스
+
+### 3. [한전기술 “기술에 나눔을 더하다”…ESG 경영 2년 연속 결실 - 인사이트N파워](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5jWkFTTVNZQnVCWkk5Z0pHWXlUc0I1V0MzUGZpN25aWXR4X29LZTFTSW5SUlVqTWlaVVhYSHJVam1zN19HX01FYkh3WGM5bU8ybEJUUW5oTWJELUZNbERBeTluZE0tZw?oc=5)
+- **발행일:** Sat, 28 Nov 2026 04:56:46 GMT
+- **요약:** 한전기술 “기술에 나눔을 더하다”…ESG 경영 2년 연속 결실인사이트N파워
+
+### 4. [부울과총, 기후테크·물순환 기반 미래 도시 ESG 전략 모색 - 부산경제](https://news.google.com/rss/articles/CBMiXEFVX3lxTE5kU25YblRfNEhxQ3BZaXdpejJPWTdhNk92ajZ5dXVLakpTYm1ncVNwVEJicmpLZHYtY0dHQWZMejlwOFljRFQ0a2lfNDBXYmk2aDRxNnpfaExrSHdo?oc=5)
+- **발행일:** Sat, 28 Nov 2026 01:35:19 GMT
+- **요약:** 부울과총, 기후테크·물순환 기반 미래 도시 ESG 전략 모색부산경제
+
+### 5. [제주탄소중립지원센터, 지속가능한 캠퍼스 조성을 위한 ‘제주 청년 기후행동 숙의공론장’ 개최 - 지금제주](https://news.google.com/rss/articles/CBMibkFVX3lxTE03Y1NLaTBDSUNvdEtya1l1WjlEQ2FjdWtOVDVNdnhxYUcyb0k3ZHdhQ0JPczRBYUw3NU14Z2ptc2pfbGRjODhXSUxQbEFRN2tNOXE3UURTekM5UXdadS04TUd0ZFJUS0dHblJSS1F3?oc=5)
+- **발행일:** Sat, 28 Nov 2026 12:03:15 GMT
+- **요약:** 제주탄소중립지원센터, 지속가능한 캠퍼스 조성을 위한 ‘제주 청년 기후행동 숙의공론장’ 개최지금제주
+
+---
+
 ## 📅 2026-11-28 ESG 및 규제 동향
 
 ### 1. [환경산업기술원, 제주와 탄소중립 실현과 녹색경제 활성화 맞손 - 환경일보](https://news.google.com/rss/articles/CBMiaEFVX3lxTE8walliUG12T0tMandMb29INlBPRWpNbDlmQ2JFaC1hX1NTbXVMY3dNdzVKTjdjRGZtN1RmSnhWcktER0JYSkpUam44RjVBN1dkcW5vRUhvLVJzODZQb0VjMWNicVFrVGxQ?oc=5)
